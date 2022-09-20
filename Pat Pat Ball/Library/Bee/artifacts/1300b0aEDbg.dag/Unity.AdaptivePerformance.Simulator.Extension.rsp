@@ -354,7 +354,7 @@
 -r:"Library/Bee/artifacts/1300b0aEDbg.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aEDbg.dag/UnityEngine.TestRunner.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aEDbg.dag/UnityEngine.UI.ref.dll"
-"Library/PackageCache/com.unity.adaptiveperformance@3.0.2/Editor/DeviceSimulator/AdaptivePerformanceUIExtension.cs"
+"Library/PackageCache/com.unity.adaptiveperformance@4.0.1/Editor/DeviceSimulator/AdaptivePerformanceUIExtension.cs"
 -langversion:9.0
 /unsafe+
 /deterministic

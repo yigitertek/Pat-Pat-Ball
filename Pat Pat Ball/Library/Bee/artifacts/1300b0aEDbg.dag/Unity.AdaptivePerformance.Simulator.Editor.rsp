@@ -353,11 +353,11 @@
 -r:"Library/Bee/artifacts/1300b0aEDbg.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aEDbg.dag/UnityEngine.TestRunner.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aEDbg.dag/UnityEngine.UI.ref.dll"
-"Library/PackageCache/com.unity.adaptiveperformance@3.0.2/Editor/Provider/SimulatorAdaptivePerformanceSubsystem.cs"
-"Library/PackageCache/com.unity.adaptiveperformance@3.0.2/Editor/Provider/SimulatorProviderConstants.cs"
-"Library/PackageCache/com.unity.adaptiveperformance@3.0.2/Editor/Provider/SimulatorProviderLoader.cs"
-"Library/PackageCache/com.unity.adaptiveperformance@3.0.2/Editor/Provider/SimulatorProviderSettings.cs"
-"Library/PackageCache/com.unity.adaptiveperformance@3.0.2/Editor/Provider/SimulatorProviderSettingsEditor.cs"
+"Library/PackageCache/com.unity.adaptiveperformance@4.0.1/Editor/Provider/SimulatorAdaptivePerformanceSubsystem.cs"
+"Library/PackageCache/com.unity.adaptiveperformance@4.0.1/Editor/Provider/SimulatorProviderConstants.cs"
+"Library/PackageCache/com.unity.adaptiveperformance@4.0.1/Editor/Provider/SimulatorProviderLoader.cs"
+"Library/PackageCache/com.unity.adaptiveperformance@4.0.1/Editor/Provider/SimulatorProviderSettings.cs"
+"Library/PackageCache/com.unity.adaptiveperformance@4.0.1/Editor/Provider/SimulatorProviderSettingsEditor.cs"
 -langversion:9.0
 /unsafe+
 /deterministic

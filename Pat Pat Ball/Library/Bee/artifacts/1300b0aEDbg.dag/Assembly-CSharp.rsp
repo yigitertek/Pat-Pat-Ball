@@ -333,8 +333,11 @@
 -r:"Library/Bee/artifacts/1300b0aEDbg.dag/Unity.AdaptivePerformance.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aEDbg.dag/Unity.AdaptivePerformance.Profiler.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aEDbg.dag/Unity.AdaptivePerformance.ref.dll"
+-r:"Library/Bee/artifacts/1300b0aEDbg.dag/Unity.AdaptivePerformance.Samsung.Android.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1300b0aEDbg.dag/Unity.AdaptivePerformance.Samsung.Android.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aEDbg.dag/Unity.AdaptivePerformance.Simulator.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aEDbg.dag/Unity.AdaptivePerformance.Simulator.Extension.ref.dll"
+-r:"Library/Bee/artifacts/1300b0aEDbg.dag/Unity.AdaptivePerformance.Simulator.VRR.Extension.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aEDbg.dag/Unity.AdaptivePerformance.UI.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aEDbg.dag/Unity.Mobile.AndroidLogcat.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aEDbg.dag/Unity.Notifications.Android.ref.dll"
@@ -363,6 +366,7 @@
 -r:"Library/Bee/artifacts/1300b0aEDbg.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aEDbg.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aEDbg.dag/UnityEngine.UI.ref.dll"
+"Assets/Scripts/Player.cs"
 "Assets/TutorialInfo/Scripts/Readme.cs"
 -langversion:9.0
 
