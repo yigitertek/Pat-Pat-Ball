@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class Player : MonoBehaviour
 {
+    public CameraShake cameraShake;
+    public UIManager uiManager;
+
     public GameObject cam;
     public GameObject vectorBack;
     public GameObject vectorForward;
@@ -65,6 +68,8 @@ public class Player : MonoBehaviour
     {
         if (hit.gameObject.CompareTag("Obstacles"))
         {
+            cameraShake.CameraShakesCall();
+            uiManager.StartCoroutine("WhiteEffect");
             gameObject.transform.GetChild(0).gameObject.SetActive(false);
             foreach (GameObject item in FractureItems)
             {

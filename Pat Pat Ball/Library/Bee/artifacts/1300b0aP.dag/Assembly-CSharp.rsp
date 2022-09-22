@@ -314,7 +314,9 @@
 -r:"Library/Bee/artifacts/1300b0aP.dag/Unity.VisualScripting.State.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aP.dag/UnityEngine.UI.ref.dll"
 "Assets/Scripts/Bounds.cs"
+"Assets/Scripts/CameraShake.cs"
 "Assets/Scripts/Player.cs"
+"Assets/Scripts/UIManager.cs"
 "Assets/Scripts/Variables.cs"
 "Assets/TutorialInfo/Scripts/Readme.cs"
 -langversion:9.0
