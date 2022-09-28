@@ -369,6 +369,7 @@
 "Assets/Scripts/Bounds.cs"
 "Assets/Scripts/CameraShake.cs"
 "Assets/Scripts/Player.cs"
+"Assets/Scripts/Slider.cs"
 "Assets/Scripts/UIManager.cs"
 "Assets/Scripts/Variables.cs"
 "Assets/TutorialInfo/Scripts/Readme.cs"

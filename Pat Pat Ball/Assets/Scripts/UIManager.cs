@@ -2,6 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
+
 
 public class UIManager : MonoBehaviour
 {
@@ -21,6 +23,11 @@ public class UIManager : MonoBehaviour
     public GameObject iap;
     public GameObject information;
 
+    public GameObject intro_Hand;
+    public GameObject toptomove_Text;
+    public GameObject shop_Button;
+
+    public GameObject restart_Screen;
 
     public void Start()
     {
@@ -34,7 +41,29 @@ public class UIManager : MonoBehaviour
         }
     }
 
+    public void FirstTouch()
+    {
+        intro_Hand.SetActive(false);
+        toptomove_Text.SetActive(false);
+        shop_Button.SetActive(false);
+        settings_Open.SetActive(false);
+        settings_Close.SetActive(false);
+        vibration_On.SetActive(false);
+        vibration_Off.SetActive(false);
+        iap.SetActive(false);
+        information.SetActive(false);
+    }
+    public void RestartButtonActive()
+    {
+        restart_Screen.SetActive(true);
+    }
+    public void RestartScene()
+    {
+        Variables.firstTouch = 0;
+        Time.timeScale = 1;
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
 
+    }
 
 
     // Buton Fonksiyonlarý

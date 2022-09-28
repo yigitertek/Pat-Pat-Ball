@@ -17,6 +17,7 @@ public class Player : MonoBehaviour
     [Range(10,40)]
     public int speedModifier;
     public int forwardSpeed;
+    private bool speedBallForward=false;
 
   
     public void Start()
@@ -27,7 +28,7 @@ public class Player : MonoBehaviour
 
     public void Update()
     {
-        if (Variables.firstTouch == 1)
+        if (Variables.firstTouch == 1 && speedBallForward ==false)
         {
             transform.position += new Vector3(0, 0, forwardSpeed * Time.deltaTime);
             cam.transform.position += new Vector3(0, 0, forwardSpeed * Time.deltaTime);
@@ -49,6 +50,7 @@ public class Player : MonoBehaviour
             if (touch.phase == TouchPhase.Began)
             {
                 Variables.firstTouch = 1;
+                uiManager.FirstTouch();
             }
             else if (touch.phase == TouchPhase.Moved)
             {
@@ -76,6 +78,16 @@ public class Player : MonoBehaviour
                 item.GetComponent<SphereCollider>().enabled = true;
                 item.GetComponent<Rigidbody>().isKinematic = false;
             }
+            StartCoroutine(TimeScaleControl());
         }
+    }
+    public IEnumerator TimeScaleControl()
+    {
+        speedBallForward = true;
+        yield return new WaitForSecondsRealtime(0.5f);
+        Time.timeScale = 0.4f;
+        yield return new WaitForSecondsRealtime(0.5f);
+        uiManager.RestartButtonActive();
+        rb.velocity = Vector3.zero;
     }
 }

@@ -4,6 +4,7 @@ ScriptsOnlyBuild:
     - Bounds
     - CameraShake
     - Player
+    - Slider
     - UIManager
     Unity.AdaptivePerformance.Editor.dll:
     - UnityEditor.AdaptivePerformance.Editor.AdaptivePerformanceGeneralSettingsPerBuildTarget
@@ -13,6 +14,8 @@ ScriptsOnlyBuild:
     Unity.AdaptivePerformance.dll:
     - UnityEngine.AdaptivePerformance.AdaptivePerformanceGeneralSettings
     - UnityEngine.AdaptivePerformance.AdaptivePerformanceManagerSettings
+    Unity.Mobile.AndroidLogcat.Editor.dll:
+    - Unity.Android.Logcat.AndroidLogcatManager
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.UnitTesting.CallbackData
     Unity.TextMeshPro.dll:
@@ -25,8 +28,10 @@ ScriptsOnlyBuild:
     UnityEditor.Graphs.dll:
     - UnityEditor.Graphs.AnimationBlendTree.Graph
     - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.AnyStateNode
     - UnityEditor.Graphs.AnimationStateMachine.Graph
     - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.StateNode
     - UnityEditor.Graphs.AnimatorControllerTool
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
@@ -81,6 +86,9 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.Navigation
     - UnityEngine.UI.SpriteState
   methodsToPreserve:
+  - assembly: Assembly-CSharp
+    fullTypeName: UIManager
+    methodName: RestartScene
   - assembly: Assembly-CSharp
     fullTypeName: UIManager
     methodName: Sound_On
@@ -172,13 +180,15 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 6096}
     - Class: 114
-      Script: {instanceID: 6254}
+      Script: {instanceID: 6162}
     - Class: 114
-      Script: {instanceID: 6618}
+      Script: {instanceID: 6256}
     - Class: 114
-      Script: {instanceID: 7088}
+      Script: {instanceID: 6620}
     - Class: 114
-      Script: {instanceID: 7350}
+      Script: {instanceID: 7090}
+    - Class: 114
+      Script: {instanceID: 7352}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -191,9 +201,7 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 196
       Script: {instanceID: 0}
-    - Class: 198
-      Script: {instanceID: 0}
-    - Class: 199
+    - Class: 212
       Script: {instanceID: 0}
     - Class: 213
       Script: {instanceID: 0}
@@ -320,7 +328,7 @@ ScriptsOnlyBuild:
     className: UnityOnJointBreakMessageListener
   - hash:
       serializedVersion: 2
-      Hash: 1d8350051b5b0986619822b76d060e12
+      Hash: f74dfef30c7f8061862bcb322e00b977
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: UIManager
@@ -858,6 +866,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
     className: CanvasScaler
+  - hash:
+      serializedVersion: 2
+      Hash: 1dbc2d0c92a0c29be3d54a1a5409cea5
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Slider
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
