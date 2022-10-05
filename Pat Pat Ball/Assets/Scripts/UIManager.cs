@@ -3,24 +3,32 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
+using TMPro;
 
 
 public class UIManager : MonoBehaviour
 {
     public Image whiteEffectImage;
     private int effectcontrol = 0;
+    private bool radialshine = false;
 
+    public Image fillRateImage;
+    public GameObject Player;
+    public GameObject finishLine;
 
     public Animator layoutAnimator;
+
+    public TextMeshProUGUI coin_Text;
 
     // Butonlar
     public GameObject settings_Open;
     public GameObject settings_Close;
+    public GameObject layout_Background;
     public GameObject sound_On;
     public GameObject sound_Off;
     public GameObject vibration_On;
     public GameObject vibration_Off;
-    public GameObject iap;
+    public GameObject iap; 
     public GameObject information;
 
     public GameObject intro_Hand;
@@ -29,6 +37,18 @@ public class UIManager : MonoBehaviour
 
     public GameObject restart_Screen;
 
+    //Oyun Sonu Ekraný
+    public GameObject finish_Screen;
+    public GameObject blackBackground;
+    public GameObject complete;
+    public GameObject radial_Shine;
+    public GameObject coin;
+    public GameObject rewarded;
+    public GameObject noThanks;
+
+    public GameObject achievedCoin;
+    public GameObject nextLevel;
+    public TextMeshProUGUI achievedText;
     public void Start()
     {
         if (PlayerPrefs.HasKey("Sound") == false )
@@ -39,6 +59,15 @@ public class UIManager : MonoBehaviour
         {
             PlayerPrefs.SetInt("Vibration", 1);
         }
+        CoinTextUpdate();
+    }
+    public void Update()
+    {
+        if (radialshine==true)
+        {
+            radial_Shine.GetComponent<RectTransform>().Rotate(new Vector3(0, 0, 20 * Time.deltaTime));
+        }
+        fillRateImage.fillAmount = (Player.transform.position.z*1000 / (finishLine.transform.position.z))/1000;
     }
 
     public void FirstTouch()
@@ -48,11 +77,17 @@ public class UIManager : MonoBehaviour
         shop_Button.SetActive(false);
         settings_Open.SetActive(false);
         settings_Close.SetActive(false);
+        layout_Background.SetActive(false);
         vibration_On.SetActive(false);
         vibration_Off.SetActive(false);
         iap.SetActive(false);
         information.SetActive(false);
     }
+    public void CoinTextUpdate()
+    {
+        coin_Text.text = PlayerPrefs.GetInt("moneyy").ToString();
+    }
+
     public void RestartButtonActive()
     {
         restart_Screen.SetActive(true);
@@ -62,9 +97,48 @@ public class UIManager : MonoBehaviour
         Variables.firstTouch = 0;
         Time.timeScale = 1;
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
-
+    }
+    public void NextScene()
+    {
+        Variables.firstTouch = 0;
+        Time.timeScale = 1;
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex +1);
+    }
+    public void FinishScreen()
+    {
+        StartCoroutine("FinishLaunch");
     }
 
+    public IEnumerator FinishLaunch()
+    {
+        Time.timeScale = 0.4f;
+        radialshine = true;
+        finish_Screen.SetActive(true);
+        blackBackground.SetActive(true);
+        yield return new WaitForSecondsRealtime(1f);
+        complete.SetActive(true);
+        yield return new WaitForSecondsRealtime(0.7f);
+        radial_Shine.SetActive(true);
+        coin.SetActive(true);
+        yield return new WaitForSecondsRealtime(1f);
+        rewarded.SetActive(true);
+        yield return new WaitForSecondsRealtime(3f);
+        noThanks.SetActive(true);
+    }
+    public IEnumerator AfterRewardButton()
+    {
+        achievedCoin.SetActive(true);
+        achievedText.gameObject.SetActive(true);
+        for (int i = 0; i <= 400; i += 4)
+        {
+            achievedText.text = "+" + i.ToString();
+            yield return new WaitForSeconds(0.0001f);
+        }    
+        rewarded.SetActive(false);
+        noThanks.SetActive(false);
+        yield return new WaitForSecondsRealtime(1f);
+        nextLevel.SetActive(true);
+    }
 
     // Buton Fonksiyonlarý
     public void Settings_Open()
@@ -85,8 +159,6 @@ public class UIManager : MonoBehaviour
             sound_Off.SetActive(true);
             AudioListener.volume = 0;
         }
-
-
         if (PlayerPrefs.GetInt("Vibration")==1)
         {
             vibration_On.SetActive(true);
@@ -97,7 +169,6 @@ public class UIManager : MonoBehaviour
             vibration_On.SetActive(false);
             vibration_Off.SetActive(true);
         }
-
     }
     public void Settings_Close()
     {
@@ -111,7 +182,6 @@ public class UIManager : MonoBehaviour
         sound_Off.SetActive(true);
         AudioListener.volume = 0;
         PlayerPrefs.SetInt("Sound", 2);
-
     }
     public void Sound_Off()
     {
@@ -119,7 +189,6 @@ public class UIManager : MonoBehaviour
         sound_Off.SetActive(false);
         AudioListener.volume = 1;
         PlayerPrefs.SetInt("Sound", 1);
-
     }
     public void Vibration_On()
     {
@@ -133,18 +202,6 @@ public class UIManager : MonoBehaviour
         vibration_Off.SetActive(false);
         PlayerPrefs.SetInt("Vibration", 1);
     }
-
-
-
-
-
-
-
-
-
-
-
-
 
     public IEnumerator WhiteEffect()
     {

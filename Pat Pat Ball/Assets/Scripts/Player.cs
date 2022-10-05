@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.EventSystems;
 
 public class Player : MonoBehaviour
 {
@@ -18,45 +19,52 @@ public class Player : MonoBehaviour
     public int speedModifier;
     public int forwardSpeed;
     private bool speedBallForward=false;
+    private bool firstTouchControl = false;
 
   
     public void Start()
     {
         rb = GetComponent<Rigidbody>();
     }
-
-
     public void Update()
     {
         if (Variables.firstTouch == 1 && speedBallForward ==false)
         {
             transform.position += new Vector3(0, 0, forwardSpeed * Time.deltaTime);
-            cam.transform.position += new Vector3(0, 0, forwardSpeed * Time.deltaTime);
             vectorBack.transform.position += new Vector3(0, 0, forwardSpeed * Time.deltaTime);
             vectorForward.transform.position += new Vector3(0, 0, forwardSpeed * Time.deltaTime);
         }
-
-
-
-
-
-
-
-
         if (Input.touchCount >0)
         {
             touch = Input.GetTouch(0);
 
             if (touch.phase == TouchPhase.Began)
             {
-                Variables.firstTouch = 1;
-                uiManager.FirstTouch();
+                if (!EventSystem.current.IsPointerOverGameObject(Input.GetTouch(0).fingerId))
+                {
+                    if (firstTouchControl == false)
+                    {
+                        Variables.firstTouch = 1;
+                        uiManager.FirstTouch();
+                        firstTouchControl = true;
+                    }          
+                }      
             }
             else if (touch.phase == TouchPhase.Moved)
             {
-                rb.velocity = new Vector3(touch.deltaPosition.x * speedModifier * Time.deltaTime,
-                                         transform.position.y,
-                                         touch.deltaPosition.y * speedModifier * Time.deltaTime);
+                if (!EventSystem.current.IsPointerOverGameObject(Input.GetTouch(0).fingerId))
+                {
+                    rb.velocity = new Vector3(touch.deltaPosition.x * speedModifier * Time.deltaTime,
+                                     transform.position.y,
+                                     touch.deltaPosition.y * speedModifier * Time.deltaTime);
+
+                    if (firstTouchControl == false)
+                    {
+                        Variables.firstTouch = 1;
+                        uiManager.FirstTouch();
+                        firstTouchControl = true;
+                    }
+                }
             }
             else if (touch.phase == TouchPhase.Ended)
             {
