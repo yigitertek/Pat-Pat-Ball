@@ -129,13 +129,13 @@ public class UIManager : MonoBehaviour
     {
         achievedCoin.SetActive(true);
         achievedText.gameObject.SetActive(true);
+        rewarded.SetActive(false);
+        noThanks.SetActive(false);
         for (int i = 0; i <= 400; i += 4)
         {
             achievedText.text = "+" + i.ToString();
             yield return new WaitForSeconds(0.0001f);
         }    
-        rewarded.SetActive(false);
-        noThanks.SetActive(false);
         yield return new WaitForSecondsRealtime(1f);
         nextLevel.SetActive(true);
     }

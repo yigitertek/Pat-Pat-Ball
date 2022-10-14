@@ -60,107 +60,420 @@
 35        android:required="false" />
 35-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:28:9-33
 36
-37    <application
-37-->C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:3-83
-38        android:extractNativeLibs="true"
-38-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:30:18-50
-39        android:icon="@mipmap/app_icon"
-39-->C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:49-80
-40        android:label="@string/app_name" >
-40-->C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:16-48
-41        <activity
-41-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:31:9-51:20
-42            android:name="com.unity3d.player.UnityPlayerActivity"
-42-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:32:13-66
-43            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
-43-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:33:13-194
-44            android:hardwareAccelerated="false"
-44-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:34:13-48
-45            android:launchMode="singleTask"
-45-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:35:13-44
-46            android:resizeableActivity="false"
-46-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:36:13-47
-47            android:screenOrientation="userPortrait"
-47-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:37:13-53
-48            android:theme="@style/UnityThemeSelector" >
-48-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:38:13-54
-49            <intent-filter>
-49-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:39:13-43:29
-50                <action android:name="android.intent.action.MAIN" />
-50-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:40:17-69
-50-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:40:25-66
-51
-52                <category android:name="android.intent.category.LAUNCHER" />
-52-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:42:17-77
-52-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:42:27-74
-53            </intent-filter>
-54
-55            <meta-data
-55-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:45:13-47:40
-56                android:name="unityplayer.UnityActivity"
-56-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:46:17-57
-57                android:value="true" />
-57-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:47:17-37
-58            <meta-data
-58-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:48:13-50:40
-59                android:name="android.notch_support"
-59-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:49:17-53
-60                android:value="true" />
-60-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:50:17-37
-61        </activity>
-62
-63        <meta-data
-63-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:53:9-55:33
-64            android:name="unity.splash-mode"
-64-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:54:13-45
-65            android:value="0" />
-65-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:55:13-30
-66        <meta-data
-66-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:56:9-58:36
-67            android:name="unity.splash-enable"
-67-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:57:13-47
-68            android:value="True" />
-68-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:58:13-33
-69        <meta-data
-69-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:59:9-61:36
-70            android:name="unity.launch-fullscreen"
-70-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:60:13-51
-71            android:value="True" />
-71-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:61:13-33
-72        <meta-data
-72-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:62:9-64:37
-73            android:name="unity.allow-resizable-window"
-73-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:63:13-56
-74            android:value="False" />
-74-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:64:13-34
-75        <meta-data
-75-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:65:9-67:50
-76            android:name="notch.config"
-76-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:66:13-40
-77            android:value="portrait|landscape" />
-77-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:67:13-47
+37    <uses-permission android:name="android.permission.WAKE_LOCK" />
+37-->[:com.google.android.gms.play-services-measurement-sdk-api-20.1.2:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\ccfbeb49b48775c04399190534146ee9\com.google.android.gms.play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:25:5-68
+37-->[:com.google.android.gms.play-services-measurement-sdk-api-20.1.2:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\ccfbeb49b48775c04399190534146ee9\com.google.android.gms.play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:25:22-65
+38    <uses-permission android:name="com.google.android.gms.permission.AD_ID" /> <!-- Android package visibility setting -->
+38-->[:com.google.android.gms.play-services-measurement-sdk-api-20.1.2:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\ccfbeb49b48775c04399190534146ee9\com.google.android.gms.play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:26:5-79
+38-->[:com.google.android.gms.play-services-measurement-sdk-api-20.1.2:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\ccfbeb49b48775c04399190534146ee9\com.google.android.gms.play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:26:22-76
+39    <queries>
+39-->[:com.google.android.gms.play-services-ads-lite-21.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\5f39aea6d144e6ef7f9c4bb587efce9d\com.google.android.gms.play-services-ads-lite-21.0.0\AndroidManifest.xml:24:3-37:13
+40
+41        <!-- For browser content -->
+42        <intent>
+42-->[:com.google.android.gms.play-services-ads-lite-21.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\5f39aea6d144e6ef7f9c4bb587efce9d\com.google.android.gms.play-services-ads-lite-21.0.0\AndroidManifest.xml:26:5-30:14
+43            <action android:name="android.intent.action.VIEW" />
+43-->[:com.google.android.gms.play-services-ads-lite-21.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\5f39aea6d144e6ef7f9c4bb587efce9d\com.google.android.gms.play-services-ads-lite-21.0.0\AndroidManifest.xml:27:7-59
+43-->[:com.google.android.gms.play-services-ads-lite-21.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\5f39aea6d144e6ef7f9c4bb587efce9d\com.google.android.gms.play-services-ads-lite-21.0.0\AndroidManifest.xml:27:15-56
+44
+45            <category android:name="android.intent.category.BROWSABLE" />
+45-->[:com.google.android.gms.play-services-ads-lite-21.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\5f39aea6d144e6ef7f9c4bb587efce9d\com.google.android.gms.play-services-ads-lite-21.0.0\AndroidManifest.xml:28:7-68
+45-->[:com.google.android.gms.play-services-ads-lite-21.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\5f39aea6d144e6ef7f9c4bb587efce9d\com.google.android.gms.play-services-ads-lite-21.0.0\AndroidManifest.xml:28:17-65
+46
+47            <data android:scheme="https" />
+47-->[:com.google.android.gms.play-services-ads-lite-21.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\5f39aea6d144e6ef7f9c4bb587efce9d\com.google.android.gms.play-services-ads-lite-21.0.0\AndroidManifest.xml:29:7-38
+47-->[:com.google.android.gms.play-services-ads-lite-21.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\5f39aea6d144e6ef7f9c4bb587efce9d\com.google.android.gms.play-services-ads-lite-21.0.0\AndroidManifest.xml:29:13-35
+48        </intent>
+49        <!-- End of browser content -->
+50        <!-- For CustomTabsService -->
+51        <intent>
+51-->[:com.google.android.gms.play-services-ads-lite-21.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\5f39aea6d144e6ef7f9c4bb587efce9d\com.google.android.gms.play-services-ads-lite-21.0.0\AndroidManifest.xml:26:5-30:14
+52            <action android:name="android.support.customtabs.action.CustomTabsService" />
+53        </intent>
+54        <!-- End of CustomTabsService -->
+55    </queries>
+56
+57    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+57-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:21:3-79
+57-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:21:20-76
+58    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+58-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:22:3-75
+58-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:22:20-72
+59
+60    <application
+60-->C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:3-83
+61        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+61-->[:androidx.core.core-1.6.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\736821b08ce43c689e56359e237cf55e\androidx.core.core-1.6.0\AndroidManifest.xml:24:18-86
+62        android:extractNativeLibs="true"
+62-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:30:18-50
+63        android:icon="@mipmap/app_icon"
+63-->C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:49-80
+64        android:label="@string/app_name" >
+64-->C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:16-48
+65        <activity
+65-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:31:9-51:20
+66            android:name="com.unity3d.player.UnityPlayerActivity"
+66-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:32:13-66
+67            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+67-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:33:13-194
+68            android:hardwareAccelerated="false"
+68-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:34:13-48
+69            android:launchMode="singleTask"
+69-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:35:13-44
+70            android:resizeableActivity="false"
+70-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:36:13-47
+71            android:screenOrientation="userPortrait"
+71-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:37:13-53
+72            android:theme="@style/UnityThemeSelector" >
+72-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:38:13-54
+73            <intent-filter>
+73-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:39:13-43:29
+74                <action android:name="android.intent.action.MAIN" />
+74-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:40:17-69
+74-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:40:25-66
+75
+76                <category android:name="android.intent.category.LAUNCHER" />
+76-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:42:17-77
+76-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:42:27-74
+77            </intent-filter>
 78
-79        <receiver
-79-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:69:9-71:40
-80            android:name="com.unity.androidnotifications.UnityNotificationManager"
-80-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:70:13-83
-81            android:exported="false" />
-81-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:71:13-37
-82        <receiver
-82-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:72:9-79:20
-83            android:name="com.unity.androidnotifications.UnityNotificationRestartOnBootReceiver"
-83-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:73:13-97
-84            android:enabled="false"
-84-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:74:13-36
-85            android:exported="false" >
-85-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:75:13-37
-86            <intent-filter>
-86-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:76:13-78:29
-87                <action android:name="android.intent.action.BOOT_COMPLETED" />
-87-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:77:17-79
-87-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:77:25-76
-88            </intent-filter>
-89        </receiver>
-90    </application>
-91
-92</manifest>
+79            <meta-data
+79-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:45:13-47:40
+80                android:name="unityplayer.UnityActivity"
+80-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:46:17-57
+81                android:value="true" />
+81-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:47:17-37
+82            <meta-data
+82-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:48:13-50:40
+83                android:name="android.notch_support"
+83-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:49:17-53
+84                android:value="true" />
+84-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:50:17-37
+85        </activity>
+86
+87        <meta-data
+87-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:53:9-55:33
+88            android:name="unity.splash-mode"
+88-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:54:13-45
+89            android:value="0" />
+89-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:55:13-30
+90        <meta-data
+90-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:56:9-58:36
+91            android:name="unity.splash-enable"
+91-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:57:13-47
+92            android:value="True" />
+92-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:58:13-33
+93        <meta-data
+93-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:59:9-61:36
+94            android:name="unity.launch-fullscreen"
+94-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:60:13-51
+95            android:value="True" />
+95-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:61:13-33
+96        <meta-data
+96-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:62:9-64:37
+97            android:name="unity.allow-resizable-window"
+97-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:63:13-56
+98            android:value="False" />
+98-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:64:13-34
+99        <meta-data
+99-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:65:9-67:50
+100            android:name="notch.config"
+100-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:66:13-40
+101            android:value="portrait|landscape" />
+101-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:67:13-47
+102
+103        <receiver
+103-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:69:9-71:40
+104            android:name="com.unity.androidnotifications.UnityNotificationManager"
+104-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:70:13-83
+105            android:exported="false" />
+105-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:71:13-37
+106        <receiver
+106-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:72:9-79:20
+107            android:name="com.unity.androidnotifications.UnityNotificationRestartOnBootReceiver"
+107-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:73:13-97
+108            android:enabled="false"
+108-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:74:13-36
+109            android:exported="false" >
+109-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:75:13-37
+110            <intent-filter>
+110-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:76:13-78:29
+111                <action android:name="android.intent.action.BOOT_COMPLETED" />
+111-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:77:17-79
+111-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:77:25-76
+112            </intent-filter>
+113        </receiver>
+114
+115        <provider
+115-->[:androidx.startup.startup-runtime-1.1.1:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\52aa67dbedb0a4f04bc483fbdd04470b\androidx.startup.startup-runtime-1.1.1\AndroidManifest.xml:20:5-181
+116            android:name="androidx.startup.InitializationProvider"
+116-->[:androidx.startup.startup-runtime-1.1.1:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\52aa67dbedb0a4f04bc483fbdd04470b\androidx.startup.startup-runtime-1.1.1\AndroidManifest.xml:20:15-69
+117            android:authorities="com.SinekGames.PatPatBall.androidx-startup"
+117-->[:androidx.startup.startup-runtime-1.1.1:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\52aa67dbedb0a4f04bc483fbdd04470b\androidx.startup.startup-runtime-1.1.1\AndroidManifest.xml:20:70-134
+118            android:exported="false" >
+118-->[:androidx.startup.startup-runtime-1.1.1:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\52aa67dbedb0a4f04bc483fbdd04470b\androidx.startup.startup-runtime-1.1.1\AndroidManifest.xml:20:135-159
+119            <meta-data
+119-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:25:7-105
+120                android:name="androidx.work.WorkManagerInitializer"
+120-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:25:18-69
+121                android:value="androidx.startup" />
+121-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:25:70-102
+122            <meta-data
+122-->[:androidx.lifecycle.lifecycle-process-2.4.1:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\27dad76ed70186405b652d2b8945900c\androidx.lifecycle.lifecycle-process-2.4.1\AndroidManifest.xml:21:7-115
+123                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+123-->[:androidx.lifecycle.lifecycle-process-2.4.1:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\27dad76ed70186405b652d2b8945900c\androidx.lifecycle.lifecycle-process-2.4.1\AndroidManifest.xml:21:18-79
+124                android:value="androidx.startup" />
+124-->[:androidx.lifecycle.lifecycle-process-2.4.1:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\27dad76ed70186405b652d2b8945900c\androidx.lifecycle.lifecycle-process-2.4.1\AndroidManifest.xml:21:80-112
+125        </provider> <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
+126        <activity
+126-->[:com.google.android.gms.play-services-ads-lite-21.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\5f39aea6d144e6ef7f9c4bb587efce9d\com.google.android.gms.play-services-ads-lite-21.0.0\AndroidManifest.xml:40:5-254
+127            android:name="com.google.android.gms.ads.AdActivity"
+127-->[:com.google.android.gms.play-services-ads-lite-21.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\5f39aea6d144e6ef7f9c4bb587efce9d\com.google.android.gms.play-services-ads-lite-21.0.0\AndroidManifest.xml:40:15-67
+128            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+128-->[:com.google.android.gms.play-services-ads-lite-21.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\5f39aea6d144e6ef7f9c4bb587efce9d\com.google.android.gms.play-services-ads-lite-21.0.0\AndroidManifest.xml:40:68-177
+129            android:exported="false"
+129-->[:com.google.android.gms.play-services-ads-lite-21.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\5f39aea6d144e6ef7f9c4bb587efce9d\com.google.android.gms.play-services-ads-lite-21.0.0\AndroidManifest.xml:40:178-202
+130            android:theme="@android:style/Theme.Translucent" />
+130-->[:com.google.android.gms.play-services-ads-lite-21.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\5f39aea6d144e6ef7f9c4bb587efce9d\com.google.android.gms.play-services-ads-lite-21.0.0\AndroidManifest.xml:40:203-251
+131
+132        <provider
+132-->[:com.google.android.gms.play-services-ads-lite-21.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\5f39aea6d144e6ef7f9c4bb587efce9d\com.google.android.gms.play-services-ads-lite-21.0.0\AndroidManifest.xml:41:5-200
+133            android:name="com.google.android.gms.ads.MobileAdsInitProvider"
+133-->[:com.google.android.gms.play-services-ads-lite-21.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\5f39aea6d144e6ef7f9c4bb587efce9d\com.google.android.gms.play-services-ads-lite-21.0.0\AndroidManifest.xml:41:15-78
+134            android:authorities="com.SinekGames.PatPatBall.mobileadsinitprovider"
+134-->[:com.google.android.gms.play-services-ads-lite-21.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\5f39aea6d144e6ef7f9c4bb587efce9d\com.google.android.gms.play-services-ads-lite-21.0.0\AndroidManifest.xml:41:79-148
+135            android:exported="false"
+135-->[:com.google.android.gms.play-services-ads-lite-21.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\5f39aea6d144e6ef7f9c4bb587efce9d\com.google.android.gms.play-services-ads-lite-21.0.0\AndroidManifest.xml:41:149-173
+136            android:initOrder="100" />
+136-->[:com.google.android.gms.play-services-ads-lite-21.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\5f39aea6d144e6ef7f9c4bb587efce9d\com.google.android.gms.play-services-ads-lite-21.0.0\AndroidManifest.xml:41:174-197
+137
+138        <service
+138-->[:com.google.android.gms.play-services-ads-lite-21.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\5f39aea6d144e6ef7f9c4bb587efce9d\com.google.android.gms.play-services-ads-lite-21.0.0\AndroidManifest.xml:42:5-116
+139            android:name="com.google.android.gms.ads.AdService"
+139-->[:com.google.android.gms.play-services-ads-lite-21.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\5f39aea6d144e6ef7f9c4bb587efce9d\com.google.android.gms.play-services-ads-lite-21.0.0\AndroidManifest.xml:42:14-65
+140            android:enabled="true"
+140-->[:com.google.android.gms.play-services-ads-lite-21.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\5f39aea6d144e6ef7f9c4bb587efce9d\com.google.android.gms.play-services-ads-lite-21.0.0\AndroidManifest.xml:42:66-88
+141            android:exported="false" />
+141-->[:com.google.android.gms.play-services-ads-lite-21.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\5f39aea6d144e6ef7f9c4bb587efce9d\com.google.android.gms.play-services-ads-lite-21.0.0\AndroidManifest.xml:42:89-113
+142
+143        <activity
+143-->[:com.google.android.gms.play-services-base-18.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\cbfc7c205ff3d80fc876617f18edfe99\com.google.android.gms.play-services-base-18.0.0\AndroidManifest.xml:20:9-22:45
+144            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+144-->[:com.google.android.gms.play-services-base-18.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\cbfc7c205ff3d80fc876617f18edfe99\com.google.android.gms.play-services-base-18.0.0\AndroidManifest.xml:20:19-85
+145            android:exported="false"
+145-->[:com.google.android.gms.play-services-base-18.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\cbfc7c205ff3d80fc876617f18edfe99\com.google.android.gms.play-services-base-18.0.0\AndroidManifest.xml:22:19-43
+146            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+146-->[:com.google.android.gms.play-services-base-18.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\cbfc7c205ff3d80fc876617f18edfe99\com.google.android.gms.play-services-base-18.0.0\AndroidManifest.xml:21:19-78
+147
+148        <service
+148-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:27:5-229
+149            android:name="androidx.work.impl.background.systemalarm.SystemAlarmService"
+149-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:27:14-89
+150            android:directBootAware="false"
+150-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:27:90-121
+151            android:enabled="@bool/enable_system_alarm_service_default"
+151-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:27:122-181
+152            android:exported="false" />
+152-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:27:182-206
+153        <service
+153-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:28:5-279
+154            android:name="androidx.work.impl.background.systemjob.SystemJobService"
+154-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:28:14-85
+155            android:directBootAware="false"
+155-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:28:86-117
+156            android:enabled="@bool/enable_system_job_service_default"
+156-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:28:118-175
+157            android:exported="true"
+157-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:28:176-199
+158            android:permission="android.permission.BIND_JOB_SERVICE" />
+158-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:28:200-256
+159        <service
+159-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:29:5-227
+160            android:name="androidx.work.impl.foreground.SystemForegroundService"
+160-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:29:14-82
+161            android:directBootAware="false"
+161-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:29:83-114
+162            android:enabled="@bool/enable_system_foreground_service_default"
+162-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:29:115-179
+163            android:exported="false" />
+163-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:29:180-204
+164
+165        <receiver
+165-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:30:5-193
+166            android:name="androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver"
+166-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:30:15-90
+167            android:directBootAware="false"
+167-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:30:91-122
+168            android:enabled="true"
+168-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:30:123-145
+169            android:exported="false" />
+169-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:30:146-170
+170        <receiver
+170-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:31:5-36:16
+171            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy"
+171-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:31:15-108
+172            android:directBootAware="false"
+172-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:31:109-140
+173            android:enabled="false"
+173-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:31:141-164
+174            android:exported="false" >
+174-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:31:165-189
+175            <intent-filter>
+175-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:32:7-35:23
+176                <action android:name="android.intent.action.ACTION_POWER_CONNECTED" />
+176-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:33:9-79
+176-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:33:17-76
+177                <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED" />
+177-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:34:9-82
+177-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:34:17-79
+178            </intent-filter>
+179        </receiver>
+180        <receiver
+180-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:37:5-42:16
+181            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy"
+181-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:37:15-106
+182            android:directBootAware="false"
+182-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:37:107-138
+183            android:enabled="false"
+183-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:37:139-162
+184            android:exported="false" >
+184-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:37:163-187
+185            <intent-filter>
+185-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:38:7-41:23
+186                <action android:name="android.intent.action.BATTERY_OKAY" />
+186-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:39:9-69
+186-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:39:17-66
+187                <action android:name="android.intent.action.BATTERY_LOW" />
+187-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:40:9-68
+187-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:40:17-65
+188            </intent-filter>
+189        </receiver>
+190        <receiver
+190-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:43:5-48:16
+191            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy"
+191-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:43:15-106
+192            android:directBootAware="false"
+192-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:43:107-138
+193            android:enabled="false"
+193-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:43:139-162
+194            android:exported="false" >
+194-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:43:163-187
+195            <intent-filter>
+195-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:44:7-47:23
+196                <action android:name="android.intent.action.DEVICE_STORAGE_LOW" />
+196-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:45:9-75
+196-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:45:17-72
+197                <action android:name="android.intent.action.DEVICE_STORAGE_OK" />
+197-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:46:9-74
+197-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:46:17-71
+198            </intent-filter>
+199        </receiver>
+200        <receiver
+200-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:49:5-53:16
+201            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy"
+201-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:49:15-105
+202            android:directBootAware="false"
+202-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:49:106-137
+203            android:enabled="false"
+203-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:49:138-161
+204            android:exported="false" >
+204-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:49:162-186
+205            <intent-filter>
+205-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:50:7-52:23
+206                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+206-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:51:9-71
+206-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:51:17-68
+207            </intent-filter>
+208        </receiver>
+209        <receiver
+209-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:54:5-60:16
+210            android:name="androidx.work.impl.background.systemalarm.RescheduleReceiver"
+210-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:54:15-90
+211            android:directBootAware="false"
+211-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:54:91-122
+212            android:enabled="false"
+212-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:54:123-146
+213            android:exported="false" >
+213-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:54:147-171
+214            <intent-filter>
+214-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:55:7-59:23
+215                <action android:name="android.intent.action.BOOT_COMPLETED" />
+215-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:77:17-79
+215-->[:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:77:25-76
+216                <action android:name="android.intent.action.TIME_SET" />
+216-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:57:9-65
+216-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:57:17-62
+217                <action android:name="android.intent.action.TIMEZONE_CHANGED" />
+217-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:58:9-73
+217-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:58:17-70
+218            </intent-filter>
+219        </receiver>
+220        <receiver
+220-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:61:5-65:16
+221            android:name="androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver"
+221-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:61:15-101
+222            android:directBootAware="false"
+222-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:61:102-133
+223            android:enabled="@bool/enable_system_alarm_service_default"
+223-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:61:134-193
+224            android:exported="false" >
+224-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:61:194-218
+225            <intent-filter>
+225-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:62:7-64:23
+226                <action android:name="androidx.work.impl.background.systemalarm.UpdateProxies" />
+226-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:63:9-90
+226-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:63:17-87
+227            </intent-filter>
+228        </receiver>
+229        <receiver
+229-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:66:5-70:16
+230            android:name="androidx.work.impl.diagnostics.DiagnosticsReceiver"
+230-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:66:15-80
+231            android:directBootAware="false"
+231-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:66:81-112
+232            android:enabled="true"
+232-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:66:113-135
+233            android:exported="true"
+233-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:66:136-159
+234            android:permission="android.permission.DUMP" >
+234-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:66:160-204
+235            <intent-filter>
+235-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:67:7-69:23
+236                <action android:name="androidx.work.diagnostics.REQUEST_DIAGNOSTICS" />
+236-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:68:9-80
+236-->[:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:68:17-77
+237            </intent-filter>
+238        </receiver>
+239
+240        <meta-data
+240-->[:com.google.android.gms.play-services-basement-18.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\c158dbe6bad5056979dbf1ee0625408f\com.google.android.gms.play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+241            android:name="com.google.android.gms.version"
+241-->[:com.google.android.gms.play-services-basement-18.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\c158dbe6bad5056979dbf1ee0625408f\com.google.android.gms.play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
+242            android:value="@integer/google_play_services_version" />
+242-->[:com.google.android.gms.play-services-basement-18.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\c158dbe6bad5056979dbf1ee0625408f\com.google.android.gms.play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+243
+244        <service
+244-->[:androidx.room.room-runtime-2.2.5:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\28e9fb3eede996dd8d91f8bfd7ee4a2a\androidx.room.room-runtime-2.2.5\AndroidManifest.xml:25:9-28:40
+245            android:name="androidx.room.MultiInstanceInvalidationService"
+245-->[:androidx.room.room-runtime-2.2.5:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\28e9fb3eede996dd8d91f8bfd7ee4a2a\androidx.room.room-runtime-2.2.5\AndroidManifest.xml:26:13-74
+246            android:directBootAware="true"
+246-->[:androidx.room.room-runtime-2.2.5:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\28e9fb3eede996dd8d91f8bfd7ee4a2a\androidx.room.room-runtime-2.2.5\AndroidManifest.xml:27:13-43
+247            android:exported="false" />
+247-->[:androidx.room.room-runtime-2.2.5:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\28e9fb3eede996dd8d91f8bfd7ee4a2a\androidx.room.room-runtime-2.2.5\AndroidManifest.xml:28:13-37
+248
+249        <uses-library
+249-->[:unityLibrary:GoogleMobileAdsPlugin.androidlib] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\build\intermediates\library_manifest\release\AndroidManifest.xml:12:9-14:40
+250            android:name="org.apache.http.legacy"
+250-->[:unityLibrary:GoogleMobileAdsPlugin.androidlib] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\build\intermediates\library_manifest\release\AndroidManifest.xml:13:13-50
+251            android:required="false" />
+251-->[:unityLibrary:GoogleMobileAdsPlugin.androidlib] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\build\intermediates\library_manifest\release\AndroidManifest.xml:14:13-37
+252
+253        <meta-data
+253-->[:unityLibrary:GoogleMobileAdsPlugin.androidlib] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\build\intermediates\library_manifest\release\AndroidManifest.xml:16:9-18:70
+254            android:name="com.google.android.gms.ads.APPLICATION_ID"
+254-->[:unityLibrary:GoogleMobileAdsPlugin.androidlib] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\build\intermediates\library_manifest\release\AndroidManifest.xml:17:13-69
+255            android:value="ca-app-pub-3940256099942544~3347511713" />
+255-->[:unityLibrary:GoogleMobileAdsPlugin.androidlib] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\build\intermediates\library_manifest\release\AndroidManifest.xml:18:13-67
+256    </application>
+257
+258</manifest>

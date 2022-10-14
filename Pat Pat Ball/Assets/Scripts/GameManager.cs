@@ -13,7 +13,7 @@ public class GameManager : MonoBehaviour
     }
     public void OnTriggerEnter(Collider other)
     {
-        if (other.gameObject.CompareTag("Player") || gameObject.CompareTag("FinishLine"))
+        if (other.gameObject.CompareTag("Player") && gameObject.CompareTag("FinishLine"))
         {
             Debug.Log("Oyun Bitti");
             admanager.RequestInterstitial();
@@ -21,6 +21,7 @@ public class GameManager : MonoBehaviour
             CoinCalculator(100);
             uimanager.CoinTextUpdate();
             uimanager.FinishScreen();
+            PlayerPrefs.SetInt("LevelIndex",PlayerPrefs.GetInt("LevelIndex") + 1);
         }
     }
 

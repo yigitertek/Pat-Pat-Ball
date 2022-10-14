@@ -3,7 +3,7 @@
     "m_SelectedPackage": {
         "deviceId": "ce0416042528ce2705",
         "name": "com.SinekGames.PatPatBall",
-        "processId": 2393,
+        "processId": 15307,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -11,289 +11,169 @@
         {
             "deviceId": "ce0416042528ce2705",
             "name": "com.SinekGames.PatPatBall",
-            "processId": 22476,
+            "processId": 478,
+            "exited": true
+        },
+        {
+            "deviceId": "ce0416042528ce2705",
+            "name": "com.SinekGames.PatPatBall",
+            "processId": 2223,
+            "exited": true
+        },
+        {
+            "deviceId": "ce0416042528ce2705",
+            "name": "com.SinekGames.PatPatBall",
+            "processId": 13583,
+            "exited": true
+        },
+        {
+            "deviceId": "ce0416042528ce2705",
+            "name": "com.SinekGames.PatPatBall",
+            "processId": 15348,
+            "exited": true
+        },
+        {
+            "deviceId": "ce0416042528ce2705",
+            "name": "com.sec.android.app.launcher",
+            "processId": 5651,
             "exited": false
         },
         {
             "deviceId": "ce0416042528ce2705",
             "name": "com.SinekGames.PatPatBall",
-            "processId": 24049,
+            "processId": 19457,
             "exited": false
         },
         {
             "deviceId": "ce0416042528ce2705",
             "name": "com.SinekGames.PatPatBall",
-            "processId": 25953,
+            "processId": 21562,
             "exited": false
         },
         {
             "deviceId": "ce0416042528ce2705",
             "name": "com.SinekGames.PatPatBall",
-            "processId": 28018,
+            "processId": 24222,
             "exited": false
         },
         {
             "deviceId": "ce0416042528ce2705",
             "name": "com.SinekGames.PatPatBall",
-            "processId": 29426,
+            "processId": 26667,
             "exited": false
         },
         {
             "deviceId": "ce0416042528ce2705",
             "name": "com.SinekGames.PatPatBall",
-            "processId": 31056,
+            "processId": 30368,
             "exited": false
         },
         {
             "deviceId": "ce0416042528ce2705",
             "name": "com.SinekGames.PatPatBall",
-            "processId": 602,
+            "processId": 3450,
             "exited": false
         },
         {
             "deviceId": "ce0416042528ce2705",
             "name": "com.SinekGames.PatPatBall",
-            "processId": 12390,
+            "processId": 5885,
             "exited": false
         },
         {
             "deviceId": "ce0416042528ce2705",
             "name": "com.SinekGames.PatPatBall",
-            "processId": 13870,
+            "processId": 7712,
             "exited": false
         },
         {
             "deviceId": "ce0416042528ce2705",
             "name": "com.SinekGames.PatPatBall",
-            "processId": 16059,
+            "processId": 10840,
             "exited": false
         },
         {
             "deviceId": "ce0416042528ce2705",
             "name": "com.SinekGames.PatPatBall",
-            "processId": 17564,
+            "processId": 14265,
             "exited": false
         },
         {
             "deviceId": "ce0416042528ce2705",
             "name": "com.SinekGames.PatPatBall",
-            "processId": 19634,
+            "processId": 22582,
             "exited": false
         },
         {
             "deviceId": "ce0416042528ce2705",
             "name": "com.SinekGames.PatPatBall",
-            "processId": 21228,
+            "processId": 26291,
             "exited": false
         },
         {
             "deviceId": "ce0416042528ce2705",
             "name": "com.SinekGames.PatPatBall",
-            "processId": 22856,
+            "processId": 28909,
             "exited": false
         },
         {
             "deviceId": "ce0416042528ce2705",
             "name": "com.SinekGames.PatPatBall",
-            "processId": 26223,
+            "processId": 31173,
             "exited": false
         },
         {
             "deviceId": "ce0416042528ce2705",
             "name": "com.SinekGames.PatPatBall",
-            "processId": 17241,
+            "processId": 1871,
             "exited": false
         },
         {
             "deviceId": "ce0416042528ce2705",
             "name": "com.SinekGames.PatPatBall",
-            "processId": 18723,
+            "processId": 4207,
             "exited": false
         },
         {
             "deviceId": "ce0416042528ce2705",
             "name": "com.SinekGames.PatPatBall",
-            "processId": 21064,
+            "processId": 11245,
             "exited": false
         },
         {
             "deviceId": "ce0416042528ce2705",
             "name": "com.SinekGames.PatPatBall",
-            "processId": 24095,
+            "processId": 26857,
             "exited": false
         },
         {
             "deviceId": "ce0416042528ce2705",
             "name": "com.SinekGames.PatPatBall",
-            "processId": 26460,
+            "processId": 28893,
             "exited": false
         },
         {
             "deviceId": "ce0416042528ce2705",
             "name": "com.SinekGames.PatPatBall",
-            "processId": 17514,
+            "processId": 1182,
             "exited": false
         },
         {
             "deviceId": "ce0416042528ce2705",
             "name": "com.SinekGames.PatPatBall",
-            "processId": 23725,
+            "processId": 3826,
             "exited": false
         },
         {
             "deviceId": "ce0416042528ce2705",
             "name": "com.SinekGames.PatPatBall",
-            "processId": 25641,
+            "processId": 10715,
             "exited": false
         },
         {
             "deviceId": "ce0416042528ce2705",
             "name": "com.SinekGames.PatPatBall",
-            "processId": 18719,
-            "exited": false
-        },
-        {
-            "deviceId": "ce0416042528ce2705",
-            "name": "com.SinekGames.PatPatBall",
-            "processId": 22265,
-            "exited": false
-        },
-        {
-            "deviceId": "ce0416042528ce2705",
-            "name": "com.SinekGames.PatPatBall",
-            "processId": 25220,
-            "exited": false
-        },
-        {
-            "deviceId": "ce0416042528ce2705",
-            "name": "com.SinekGames.PatPatBall",
-            "processId": 27238,
-            "exited": false
-        },
-        {
-            "deviceId": "ce0416042528ce2705",
-            "name": "com.SinekGames.PatPatBall",
-            "processId": 29567,
-            "exited": false
-        },
-        {
-            "deviceId": "ce0416042528ce2705",
-            "name": "com.SinekGames.PatPatBall",
-            "processId": 2023,
-            "exited": false
-        },
-        {
-            "deviceId": "ce0416042528ce2705",
-            "name": "com.SinekGames.PatPatBall",
-            "processId": 24003,
-            "exited": false
-        },
-        {
-            "deviceId": "ce0416042528ce2705",
-            "name": "com.SinekGames.PatPatBall",
-            "processId": 9063,
-            "exited": false
-        },
-        {
-            "deviceId": "ce0416042528ce2705",
-            "name": "com.SinekGames.PatPatBall",
-            "processId": 13472,
-            "exited": false
-        },
-        {
-            "deviceId": "ce0416042528ce2705",
-            "name": "com.SinekGames.PatPatBall",
-            "processId": 21741,
-            "exited": false
-        },
-        {
-            "deviceId": "ce0416042528ce2705",
-            "name": "com.SinekGames.PatPatBall",
-            "processId": 24432,
-            "exited": false
-        },
-        {
-            "deviceId": "ce0416042528ce2705",
-            "name": "com.SinekGames.PatPatBall",
-            "processId": 27963,
-            "exited": false
-        },
-        {
-            "deviceId": "ce0416042528ce2705",
-            "name": "com.SinekGames.PatPatBall",
-            "processId": 17489,
-            "exited": false
-        },
-        {
-            "deviceId": "ce0416042528ce2705",
-            "name": "com.SinekGames.PatPatBall",
-            "processId": 24870,
-            "exited": false
-        },
-        {
-            "deviceId": "ce0416042528ce2705",
-            "name": "com.SinekGames.PatPatBall",
-            "processId": 26963,
-            "exited": false
-        },
-        {
-            "deviceId": "ce0416042528ce2705",
-            "name": "com.SinekGames.PatPatBall",
-            "processId": 29463,
-            "exited": false
-        },
-        {
-            "deviceId": "ce0416042528ce2705",
-            "name": "com.SinekGames.PatPatBall",
-            "processId": 32541,
-            "exited": false
-        },
-        {
-            "deviceId": "ce0416042528ce2705",
-            "name": "com.SinekGames.PatPatBall",
-            "processId": 2494,
-            "exited": false
-        },
-        {
-            "deviceId": "ce0416042528ce2705",
-            "name": "com.SinekGames.PatPatBall",
-            "processId": 4427,
-            "exited": false
-        },
-        {
-            "deviceId": "ce0416042528ce2705",
-            "name": "com.SinekGames.PatPatBall",
-            "processId": 6802,
-            "exited": false
-        },
-        {
-            "deviceId": "ce0416042528ce2705",
-            "name": "com.SinekGames.PatPatBall",
-            "processId": 25566,
-            "exited": false
-        },
-        {
-            "deviceId": "ce0416042528ce2705",
-            "name": "com.SinekGames.PatPatBall",
-            "processId": 28165,
-            "exited": false
-        },
-        {
-            "deviceId": "ce0416042528ce2705",
-            "name": "com.SinekGames.PatPatBall",
-            "processId": 31141,
-            "exited": false
-        },
-        {
-            "deviceId": "ce0416042528ce2705",
-            "name": "com.SinekGames.PatPatBall",
-            "processId": 431,
-            "exited": false
-        },
-        {
-            "deviceId": "ce0416042528ce2705",
-            "name": "com.SinekGames.PatPatBall",
-            "processId": 2393,
+            "processId": 15307,
             "exited": false
         }
     ],

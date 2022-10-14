@@ -5,6 +5,52 @@ INJECTED from C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Androi
 INJECTED from C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
 INJECTED from C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
 MERGED from [:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-82:12
+MERGED from [:androidx.slidingpanelayout.slidingpanelayout-1.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\aa2f1cd22069a9bb65f1845d902d729f\androidx.slidingpanelayout.slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.customview.customview-1.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\d1ea25f3382273eed14315b543469208\androidx.customview.customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.cursoradapter.cursoradapter-1.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\7c0677be8011741026309ef690a9f4db\androidx.cursoradapter.cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.startup.startup-runtime-1.1.1:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\52aa67dbedb0a4f04bc483fbdd04470b\androidx.startup.startup-runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [:com.google.android.gms.play-services-appset-16.0.1:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\4419a7e68582ad6b93da1e434096db8a\com.google.android.gms.play-services-appset-16.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [:androidx.viewpager.viewpager-1.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\ebc8011c39d26c440b76466a9b971345\androidx.viewpager.viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:com.google.android.gms.play-services-ads-base-21.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\437ee558de238609cc6744cb0064714e\com.google.android.gms.play-services-ads-base-21.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [:androidx.arch.core.core-runtime-2.1.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\e737982ea91fdf7ea321d344c75db0be\androidx.arch.core.core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.lifecycle.lifecycle-livedata-2.1.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\881f6353a293f85beb3c21300a6a0eae\androidx.lifecycle.lifecycle-livedata-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.browser.browser-1.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\d65cb7c8efed3ac0d87582c278bb8c7e\androidx.browser.browser-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.lifecycle.lifecycle-runtime-2.4.1:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\5331ebd51db3eb285d4b4505d383c5c3\androidx.lifecycle.lifecycle-runtime-2.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.drawerlayout.drawerlayout-1.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\4c1ade53cc4b20d7bc631ac17d3bfca4\androidx.drawerlayout.drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.coordinatorlayout.coordinatorlayout-1.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\df8a19ef163eaa8f3d3c8f24458897fd\androidx.coordinatorlayout.coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.1.1:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\80337eba0fa841c8c1805cc0e4bb6db7\androidx.versionedparcelable.versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [:androidx.localbroadcastmanager.localbroadcastmanager-1.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\d711f81259436f09ffdf0b48105165e3\androidx.localbroadcastmanager.localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.lifecycle.lifecycle-livedata-core-2.1.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\c0c6b03fdd3b2c24e2504f1adb930d44\androidx.lifecycle.lifecycle-livedata-core-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.loader.loader-1.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\2118a7099009bdd29f0289728ee82c0d\androidx.loader.loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.sqlite.sqlite-framework-2.1.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\4456685f824cc5bd0e8a51661426addc\androidx.sqlite.sqlite-framework-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.interpolator.interpolator-1.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\bcf856ddfeb04b3b73ed182739910d39\androidx.interpolator.interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:com.google.android.gms.play-services-measurement-base-20.1.2:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\51b07857987e2ce99da4336ee324f994\com.google.android.gms.play-services-measurement-base-20.1.2\AndroidManifest.xml:2:1-9:12
+MERGED from [:androidx.legacy.legacy-support-core-utils-1.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\18f5c1f0dcc08504bb6a1709d838cf6b\androidx.legacy.legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:com.google.android.ump.user-messaging-platform-2.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\a94e83e47dd4e6345dcf6b502daf6093\com.google.android.ump.user-messaging-platform-2.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [:androidx.annotation.annotation-experimental-1.1.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\97888b20f6dba24150fc76a5afcbce8d\androidx.annotation.annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [:androidx.swiperefreshlayout.swiperefreshlayout-1.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\a083b9190df6cd0b2eed1b8d83acb3d5\androidx.swiperefreshlayout.swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-20.1.2:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\ccfbeb49b48775c04399190534146ee9\com.google.android.gms.play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:17:1-28:12
+MERGED from [:androidx.asynclayoutinflater.asynclayoutinflater-1.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\f1f8381ec1e1c3f6b165a08612cfd883\androidx.asynclayoutinflater.asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.core.core-1.6.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\736821b08ce43c689e56359e237cf55e\androidx.core.core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [:androidx.fragment.fragment-1.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\bbcbf6e10ae52a08d3f4cdfbe738c39d\androidx.fragment.fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:com.google.android.gms.play-services-ads-identifier-18.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\b5d89b627fa174038c4f6556bb02a4ca\com.google.android.gms.play-services-ads-identifier-18.0.0\AndroidManifest.xml:17:1-27:12
+MERGED from [:googlemobileads-unity:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\161cadf97f5c791707d38ec01dafb541\googlemobileads-unity\AndroidManifest.xml:7:1-14:12
+MERGED from [:com.google.android.gms.play-services-ads-lite-21.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\5f39aea6d144e6ef7f9c4bb587efce9d\com.google.android.gms.play-services-ads-lite-21.0.0\AndroidManifest.xml:17:1-44:12
+MERGED from [:androidx.tracing.tracing-1.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\5ba63b1c70eabe443fa095f6e25f4126\androidx.tracing.tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [:com.google.android.gms.play-services-base-18.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\cbfc7c205ff3d80fc876617f18edfe99\com.google.android.gms.play-services-base-18.0.0\AndroidManifest.xml:16:1-24:12
+MERGED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:17:1-72:12
+MERGED from [:androidx.lifecycle.lifecycle-process-2.4.1:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\27dad76ed70186405b652d2b8945900c\androidx.lifecycle.lifecycle-process-2.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [:com.google.android.gms.play-services-ads-21.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\280e98333702425c7d840580f19ed007\com.google.android.gms.play-services-ads-21.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [:com.google.android.gms.play-services-tasks-18.0.1:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\9f8431a80f22bd4317aee0a135e5a20a\com.google.android.gms.play-services-tasks-18.0.1\AndroidManifest.xml:2:1-6:12
+MERGED from [:androidx.lifecycle.lifecycle-service-2.1.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\f9da1c5dce99d4a880107d6346aac466\androidx.lifecycle.lifecycle-service-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.legacy.legacy-support-core-ui-1.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\f5ec57ec49d0a3e9add695de66a9078c\androidx.legacy.legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:com.google.android.gms.play-services-basement-18.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\c158dbe6bad5056979dbf1ee0625408f\com.google.android.gms.play-services-basement-18.0.0\AndroidManifest.xml:16:1-26:12
+MERGED from [:androidx.room.room-runtime-2.2.5:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\28e9fb3eede996dd8d91f8bfd7ee4a2a\androidx.room.room-runtime-2.2.5\AndroidManifest.xml:17:1-31:12
+MERGED from [:androidx.lifecycle.lifecycle-viewmodel-2.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\b42ab30b982239949a81eb93ceae6c0b\androidx.lifecycle.lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.documentfile.documentfile-1.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\7bcdab9edca68925f6bcb92ddd8a20de\androidx.documentfile.documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.print.print-1.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\87e4a5cb4839ebd5d033fa0ae6227780\androidx.print.print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:androidx.sqlite.sqlite-2.1.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\488c18d44cd4e8678635401c693fd298\androidx.sqlite.sqlite-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [:unityLibrary:GoogleMobileAdsPlugin.androidlib] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-21:12
 INJECTED from C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
 INJECTED from C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
 INJECTED from C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
@@ -42,8 +88,40 @@ application
 ADDED from C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:3-83
 MERGED from [:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:30:5-80:19
 MERGED from [:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:30:5-80:19
+MERGED from [:androidx.startup.startup-runtime-1.1.1:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\52aa67dbedb0a4f04bc483fbdd04470b\androidx.startup.startup-runtime-1.1.1\AndroidManifest.xml:19:3-21:17
+MERGED from [:androidx.startup.startup-runtime-1.1.1:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\52aa67dbedb0a4f04bc483fbdd04470b\androidx.startup.startup-runtime-1.1.1\AndroidManifest.xml:19:3-21:17
+MERGED from [:com.google.android.gms.play-services-appset-16.0.1:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\4419a7e68582ad6b93da1e434096db8a\com.google.android.gms.play-services-appset-16.0.1\AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-appset-16.0.1:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\4419a7e68582ad6b93da1e434096db8a\com.google.android.gms.play-services-appset-16.0.1\AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-ads-base-21.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\437ee558de238609cc6744cb0064714e\com.google.android.gms.play-services-ads-base-21.0.0\AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-ads-base-21.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\437ee558de238609cc6744cb0064714e\com.google.android.gms.play-services-ads-base-21.0.0\AndroidManifest.xml:7:5-20
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.1.1:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\80337eba0fa841c8c1805cc0e4bb6db7\androidx.versionedparcelable.versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.1.1:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\80337eba0fa841c8c1805cc0e4bb6db7\androidx.versionedparcelable.versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [:com.google.android.gms.play-services-measurement-base-20.1.2:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\51b07857987e2ce99da4336ee324f994\com.google.android.gms.play-services-measurement-base-20.1.2\AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-measurement-base-20.1.2:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\51b07857987e2ce99da4336ee324f994\com.google.android.gms.play-services-measurement-base-20.1.2\AndroidManifest.xml:7:5-20
+MERGED from [:androidx.core.core-1.6.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\736821b08ce43c689e56359e237cf55e\androidx.core.core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [:androidx.core.core-1.6.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\736821b08ce43c689e56359e237cf55e\androidx.core.core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [:com.google.android.gms.play-services-ads-identifier-18.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\b5d89b627fa174038c4f6556bb02a4ca\com.google.android.gms.play-services-ads-identifier-18.0.0\AndroidManifest.xml:25:5-20
+MERGED from [:com.google.android.gms.play-services-ads-identifier-18.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\b5d89b627fa174038c4f6556bb02a4ca\com.google.android.gms.play-services-ads-identifier-18.0.0\AndroidManifest.xml:25:5-20
+MERGED from [:com.google.android.gms.play-services-ads-lite-21.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\5f39aea6d144e6ef7f9c4bb587efce9d\com.google.android.gms.play-services-ads-lite-21.0.0\AndroidManifest.xml:38:3-43:17
+MERGED from [:com.google.android.gms.play-services-ads-lite-21.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\5f39aea6d144e6ef7f9c4bb587efce9d\com.google.android.gms.play-services-ads-lite-21.0.0\AndroidManifest.xml:38:3-43:17
+MERGED from [:com.google.android.gms.play-services-base-18.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\cbfc7c205ff3d80fc876617f18edfe99\com.google.android.gms.play-services-base-18.0.0\AndroidManifest.xml:19:5-23:19
+MERGED from [:com.google.android.gms.play-services-base-18.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\cbfc7c205ff3d80fc876617f18edfe99\com.google.android.gms.play-services-base-18.0.0\AndroidManifest.xml:19:5-23:19
+MERGED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:23:3-71:17
+MERGED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:23:3-71:17
+MERGED from [:androidx.lifecycle.lifecycle-process-2.4.1:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\27dad76ed70186405b652d2b8945900c\androidx.lifecycle.lifecycle-process-2.4.1\AndroidManifest.xml:19:3-23:17
+MERGED from [:androidx.lifecycle.lifecycle-process-2.4.1:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\27dad76ed70186405b652d2b8945900c\androidx.lifecycle.lifecycle-process-2.4.1\AndroidManifest.xml:19:3-23:17
+MERGED from [:com.google.android.gms.play-services-tasks-18.0.1:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\9f8431a80f22bd4317aee0a135e5a20a\com.google.android.gms.play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [:com.google.android.gms.play-services-tasks-18.0.1:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\9f8431a80f22bd4317aee0a135e5a20a\com.google.android.gms.play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [:com.google.android.gms.play-services-basement-18.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\c158dbe6bad5056979dbf1ee0625408f\com.google.android.gms.play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [:com.google.android.gms.play-services-basement-18.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\c158dbe6bad5056979dbf1ee0625408f\com.google.android.gms.play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [:androidx.room.room-runtime-2.2.5:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\28e9fb3eede996dd8d91f8bfd7ee4a2a\androidx.room.room-runtime-2.2.5\AndroidManifest.xml:24:5-29:19
+MERGED from [:androidx.room.room-runtime-2.2.5:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\28e9fb3eede996dd8d91f8bfd7ee4a2a\androidx.room.room-runtime-2.2.5\AndroidManifest.xml:24:5-29:19
+MERGED from [:unityLibrary:GoogleMobileAdsPlugin.androidlib] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-19:19
+MERGED from [:unityLibrary:GoogleMobileAdsPlugin.androidlib] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-19:19
 	android:extractNativeLibs
 		ADDED from [:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:30:18-50
+	android:appComponentFactory
+		ADDED from [:androidx.core.core-1.6.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\736821b08ce43c689e56359e237cf55e\androidx.core.core-1.6.0\AndroidManifest.xml:24:18-86
 	android:label
 		ADDED from C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml:4:16-48
 	android:icon
@@ -54,8 +132,102 @@ INJECTED from C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Androi
 INJECTED from C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
 MERGED from [:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:8:5-10:41
 MERGED from [:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:8:5-10:41
+MERGED from [:androidx.slidingpanelayout.slidingpanelayout-1.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\aa2f1cd22069a9bb65f1845d902d729f\androidx.slidingpanelayout.slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.slidingpanelayout.slidingpanelayout-1.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\aa2f1cd22069a9bb65f1845d902d729f\androidx.slidingpanelayout.slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.customview.customview-1.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\d1ea25f3382273eed14315b543469208\androidx.customview.customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.customview.customview-1.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\d1ea25f3382273eed14315b543469208\androidx.customview.customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.cursoradapter.cursoradapter-1.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\7c0677be8011741026309ef690a9f4db\androidx.cursoradapter.cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.cursoradapter.cursoradapter-1.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\7c0677be8011741026309ef690a9f4db\androidx.cursoradapter.cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.startup.startup-runtime-1.1.1:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\52aa67dbedb0a4f04bc483fbdd04470b\androidx.startup.startup-runtime-1.1.1\AndroidManifest.xml:18:3-72
+MERGED from [:androidx.startup.startup-runtime-1.1.1:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\52aa67dbedb0a4f04bc483fbdd04470b\androidx.startup.startup-runtime-1.1.1\AndroidManifest.xml:18:3-72
+MERGED from [:com.google.android.gms.play-services-appset-16.0.1:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\4419a7e68582ad6b93da1e434096db8a\com.google.android.gms.play-services-appset-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-appset-16.0.1:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\4419a7e68582ad6b93da1e434096db8a\com.google.android.gms.play-services-appset-16.0.1\AndroidManifest.xml:5:5-44
+MERGED from [:androidx.viewpager.viewpager-1.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\ebc8011c39d26c440b76466a9b971345\androidx.viewpager.viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.viewpager.viewpager-1.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\ebc8011c39d26c440b76466a9b971345\androidx.viewpager.viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-ads-base-21.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\437ee558de238609cc6744cb0064714e\com.google.android.gms.play-services-ads-base-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-ads-base-21.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\437ee558de238609cc6744cb0064714e\com.google.android.gms.play-services-ads-base-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [:androidx.arch.core.core-runtime-2.1.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\e737982ea91fdf7ea321d344c75db0be\androidx.arch.core.core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.arch.core.core-runtime-2.1.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\e737982ea91fdf7ea321d344c75db0be\androidx.arch.core.core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.lifecycle.lifecycle-livedata-2.1.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\881f6353a293f85beb3c21300a6a0eae\androidx.lifecycle.lifecycle-livedata-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-livedata-2.1.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\881f6353a293f85beb3c21300a6a0eae\androidx.lifecycle.lifecycle-livedata-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.browser.browser-1.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\d65cb7c8efed3ac0d87582c278bb8c7e\androidx.browser.browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.browser.browser-1.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\d65cb7c8efed3ac0d87582c278bb8c7e\androidx.browser.browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-runtime-2.4.1:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\5331ebd51db3eb285d4b4505d383c5c3\androidx.lifecycle.lifecycle-runtime-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.lifecycle.lifecycle-runtime-2.4.1:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\5331ebd51db3eb285d4b4505d383c5c3\androidx.lifecycle.lifecycle-runtime-2.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.drawerlayout.drawerlayout-1.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\4c1ade53cc4b20d7bc631ac17d3bfca4\androidx.drawerlayout.drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.drawerlayout.drawerlayout-1.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\4c1ade53cc4b20d7bc631ac17d3bfca4\androidx.drawerlayout.drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.coordinatorlayout.coordinatorlayout-1.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\df8a19ef163eaa8f3d3c8f24458897fd\androidx.coordinatorlayout.coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.coordinatorlayout.coordinatorlayout-1.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\df8a19ef163eaa8f3d3c8f24458897fd\androidx.coordinatorlayout.coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.1.1:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\80337eba0fa841c8c1805cc0e4bb6db7\androidx.versionedparcelable.versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.versionedparcelable.versionedparcelable-1.1.1:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\80337eba0fa841c8c1805cc0e4bb6db7\androidx.versionedparcelable.versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.localbroadcastmanager.localbroadcastmanager-1.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\d711f81259436f09ffdf0b48105165e3\androidx.localbroadcastmanager.localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.localbroadcastmanager.localbroadcastmanager-1.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\d711f81259436f09ffdf0b48105165e3\androidx.localbroadcastmanager.localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-livedata-core-2.1.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\c0c6b03fdd3b2c24e2504f1adb930d44\androidx.lifecycle.lifecycle-livedata-core-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-livedata-core-2.1.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\c0c6b03fdd3b2c24e2504f1adb930d44\androidx.lifecycle.lifecycle-livedata-core-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.loader.loader-1.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\2118a7099009bdd29f0289728ee82c0d\androidx.loader.loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.loader.loader-1.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\2118a7099009bdd29f0289728ee82c0d\androidx.loader.loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.sqlite.sqlite-framework-2.1.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\4456685f824cc5bd0e8a51661426addc\androidx.sqlite.sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.sqlite.sqlite-framework-2.1.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\4456685f824cc5bd0e8a51661426addc\androidx.sqlite.sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.interpolator.interpolator-1.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\bcf856ddfeb04b3b73ed182739910d39\androidx.interpolator.interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.interpolator.interpolator-1.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\bcf856ddfeb04b3b73ed182739910d39\androidx.interpolator.interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-base-20.1.2:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\51b07857987e2ce99da4336ee324f994\com.google.android.gms.play-services-measurement-base-20.1.2\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-base-20.1.2:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\51b07857987e2ce99da4336ee324f994\com.google.android.gms.play-services-measurement-base-20.1.2\AndroidManifest.xml:5:5-44
+MERGED from [:androidx.legacy.legacy-support-core-utils-1.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\18f5c1f0dcc08504bb6a1709d838cf6b\androidx.legacy.legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.legacy.legacy-support-core-utils-1.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\18f5c1f0dcc08504bb6a1709d838cf6b\androidx.legacy.legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.ump.user-messaging-platform-2.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\a94e83e47dd4e6345dcf6b502daf6093\com.google.android.ump.user-messaging-platform-2.0.0\AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.ump.user-messaging-platform-2.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\a94e83e47dd4e6345dcf6b502daf6093\com.google.android.ump.user-messaging-platform-2.0.0\AndroidManifest.xml:5:5-44
+MERGED from [:androidx.annotation.annotation-experimental-1.1.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\97888b20f6dba24150fc76a5afcbce8d\androidx.annotation.annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.annotation.annotation-experimental-1.1.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\97888b20f6dba24150fc76a5afcbce8d\androidx.annotation.annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.swiperefreshlayout.swiperefreshlayout-1.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\a083b9190df6cd0b2eed1b8d83acb3d5\androidx.swiperefreshlayout.swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.swiperefreshlayout.swiperefreshlayout-1.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\a083b9190df6cd0b2eed1b8d83acb3d5\androidx.swiperefreshlayout.swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-20.1.2:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\ccfbeb49b48775c04399190534146ee9\com.google.android.gms.play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-20.1.2:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\ccfbeb49b48775c04399190534146ee9\com.google.android.gms.play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.asynclayoutinflater.asynclayoutinflater-1.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\f1f8381ec1e1c3f6b165a08612cfd883\androidx.asynclayoutinflater.asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.asynclayoutinflater.asynclayoutinflater-1.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\f1f8381ec1e1c3f6b165a08612cfd883\androidx.asynclayoutinflater.asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.core.core-1.6.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\736821b08ce43c689e56359e237cf55e\androidx.core.core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.core.core-1.6.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\736821b08ce43c689e56359e237cf55e\androidx.core.core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.fragment.fragment-1.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\bbcbf6e10ae52a08d3f4cdfbe738c39d\androidx.fragment.fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.fragment.fragment-1.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\bbcbf6e10ae52a08d3f4cdfbe738c39d\androidx.fragment.fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-ads-identifier-18.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\b5d89b627fa174038c4f6556bb02a4ca\com.google.android.gms.play-services-ads-identifier-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-ads-identifier-18.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\b5d89b627fa174038c4f6556bb02a4ca\com.google.android.gms.play-services-ads-identifier-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:googlemobileads-unity:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\161cadf97f5c791707d38ec01dafb541\googlemobileads-unity\AndroidManifest.xml:10:5-44
+MERGED from [:googlemobileads-unity:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\161cadf97f5c791707d38ec01dafb541\googlemobileads-unity\AndroidManifest.xml:10:5-44
+MERGED from [:com.google.android.gms.play-services-ads-lite-21.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\5f39aea6d144e6ef7f9c4bb587efce9d\com.google.android.gms.play-services-ads-lite-21.0.0\AndroidManifest.xml:18:3-42
+MERGED from [:com.google.android.gms.play-services-ads-lite-21.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\5f39aea6d144e6ef7f9c4bb587efce9d\com.google.android.gms.play-services-ads-lite-21.0.0\AndroidManifest.xml:18:3-42
+MERGED from [:androidx.tracing.tracing-1.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\5ba63b1c70eabe443fa095f6e25f4126\androidx.tracing.tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.tracing.tracing-1.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\5ba63b1c70eabe443fa095f6e25f4126\androidx.tracing.tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:com.google.android.gms.play-services-base-18.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\cbfc7c205ff3d80fc876617f18edfe99\com.google.android.gms.play-services-base-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [:com.google.android.gms.play-services-base-18.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\cbfc7c205ff3d80fc876617f18edfe99\com.google.android.gms.play-services-base-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:18:3-72
+MERGED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:18:3-72
+MERGED from [:androidx.lifecycle.lifecycle-process-2.4.1:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\27dad76ed70186405b652d2b8945900c\androidx.lifecycle.lifecycle-process-2.4.1\AndroidManifest.xml:18:3-72
+MERGED from [:androidx.lifecycle.lifecycle-process-2.4.1:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\27dad76ed70186405b652d2b8945900c\androidx.lifecycle.lifecycle-process-2.4.1\AndroidManifest.xml:18:3-72
+MERGED from [:com.google.android.gms.play-services-ads-21.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\280e98333702425c7d840580f19ed007\com.google.android.gms.play-services-ads-21.0.0\AndroidManifest.xml:21:5-23:52
+MERGED from [:com.google.android.gms.play-services-ads-21.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\280e98333702425c7d840580f19ed007\com.google.android.gms.play-services-ads-21.0.0\AndroidManifest.xml:21:5-23:52
+MERGED from [:com.google.android.gms.play-services-tasks-18.0.1:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\9f8431a80f22bd4317aee0a135e5a20a\com.google.android.gms.play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [:com.google.android.gms.play-services-tasks-18.0.1:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\9f8431a80f22bd4317aee0a135e5a20a\com.google.android.gms.play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [:androidx.lifecycle.lifecycle-service-2.1.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\f9da1c5dce99d4a880107d6346aac466\androidx.lifecycle.lifecycle-service-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-service-2.1.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\f9da1c5dce99d4a880107d6346aac466\androidx.lifecycle.lifecycle-service-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.legacy.legacy-support-core-ui-1.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\f5ec57ec49d0a3e9add695de66a9078c\androidx.legacy.legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.legacy.legacy-support-core-ui-1.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\f5ec57ec49d0a3e9add695de66a9078c\androidx.legacy.legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-basement-18.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\c158dbe6bad5056979dbf1ee0625408f\com.google.android.gms.play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [:com.google.android.gms.play-services-basement-18.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\c158dbe6bad5056979dbf1ee0625408f\com.google.android.gms.play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [:androidx.room.room-runtime-2.2.5:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\28e9fb3eede996dd8d91f8bfd7ee4a2a\androidx.room.room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.room.room-runtime-2.2.5:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\28e9fb3eede996dd8d91f8bfd7ee4a2a\androidx.room.room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.lifecycle.lifecycle-viewmodel-2.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\b42ab30b982239949a81eb93ceae6c0b\androidx.lifecycle.lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.lifecycle.lifecycle-viewmodel-2.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\b42ab30b982239949a81eb93ceae6c0b\androidx.lifecycle.lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.documentfile.documentfile-1.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\7bcdab9edca68925f6bcb92ddd8a20de\androidx.documentfile.documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.documentfile.documentfile-1.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\7bcdab9edca68925f6bcb92ddd8a20de\androidx.documentfile.documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.print.print-1.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\87e4a5cb4839ebd5d033fa0ae6227780\androidx.print.print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.print.print-1.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\87e4a5cb4839ebd5d033fa0ae6227780\androidx.print.print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [:androidx.sqlite.sqlite-2.1.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\488c18d44cd4e8678635401c693fd298\androidx.sqlite.sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:androidx.sqlite.sqlite-2.1.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\488c18d44cd4e8678635401c693fd298\androidx.sqlite.sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:unityLibrary:GoogleMobileAdsPlugin.androidlib] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:unityLibrary:GoogleMobileAdsPlugin.androidlib] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
 INJECTED from C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
 INJECTED from C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [:com.google.android.gms.play-services-ads-21.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\280e98333702425c7d840580f19ed007\com.google.android.gms.play-services-ads-21.0.0\AndroidManifest.xml:23:9-49
 	android:targetSdkVersion
 		INJECTED from C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
 		ADDED from C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\AndroidManifest.xml
@@ -76,10 +248,22 @@ ADDED from [:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Libra
 		ADDED from [:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:14:9-55
 uses-permission#android.permission.INTERNET
 ADDED from [:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:17:5-67
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-20.1.2:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\ccfbeb49b48775c04399190534146ee9\com.google.android.gms.play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:23:5-67
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-20.1.2:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\ccfbeb49b48775c04399190534146ee9\com.google.android.gms.play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:23:5-67
+MERGED from [:googlemobileads-unity:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\161cadf97f5c791707d38ec01dafb541\googlemobileads-unity\AndroidManifest.xml:12:5-67
+MERGED from [:googlemobileads-unity:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\161cadf97f5c791707d38ec01dafb541\googlemobileads-unity\AndroidManifest.xml:12:5-67
+MERGED from [:com.google.android.gms.play-services-ads-lite-21.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\5f39aea6d144e6ef7f9c4bb587efce9d\com.google.android.gms.play-services-ads-lite-21.0.0\AndroidManifest.xml:20:3-65
+MERGED from [:com.google.android.gms.play-services-ads-lite-21.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\5f39aea6d144e6ef7f9c4bb587efce9d\com.google.android.gms.play-services-ads-lite-21.0.0\AndroidManifest.xml:20:3-65
 	android:name
 		ADDED from [:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:17:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:18:5-79
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-20.1.2:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\ccfbeb49b48775c04399190534146ee9\com.google.android.gms.play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:24:5-79
+MERGED from [:com.google.android.gms.play-services-measurement-sdk-api-20.1.2:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\ccfbeb49b48775c04399190534146ee9\com.google.android.gms.play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:24:5-79
+MERGED from [:com.google.android.gms.play-services-ads-lite-21.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\5f39aea6d144e6ef7f9c4bb587efce9d\com.google.android.gms.play-services-ads-lite-21.0.0\AndroidManifest.xml:21:3-77
+MERGED from [:com.google.android.gms.play-services-ads-lite-21.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\5f39aea6d144e6ef7f9c4bb587efce9d\com.google.android.gms.play-services-ads-lite-21.0.0\AndroidManifest.xml:21:3-77
+MERGED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:20:3-77
+MERGED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:20:3-77
 	android:name
 		ADDED from [:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:18:22-76
 uses-feature#android.hardware.touchscreen
@@ -188,3 +372,323 @@ action#android.intent.action.BOOT_COMPLETED
 ADDED from [:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:77:17-79
 	android:name
 		ADDED from [:unityLibrary] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:77:25-76
+provider#androidx.startup.InitializationProvider
+ADDED from [:androidx.startup.startup-runtime-1.1.1:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\52aa67dbedb0a4f04bc483fbdd04470b\androidx.startup.startup-runtime-1.1.1\AndroidManifest.xml:20:5-181
+MERGED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:24:5-26:16
+MERGED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:24:5-26:16
+MERGED from [:androidx.lifecycle.lifecycle-process-2.4.1:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\27dad76ed70186405b652d2b8945900c\androidx.lifecycle.lifecycle-process-2.4.1\AndroidManifest.xml:20:5-22:16
+MERGED from [:androidx.lifecycle.lifecycle-process-2.4.1:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\27dad76ed70186405b652d2b8945900c\androidx.lifecycle.lifecycle-process-2.4.1\AndroidManifest.xml:20:5-22:16
+	tools:node
+		ADDED from [:androidx.startup.startup-runtime-1.1.1:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\52aa67dbedb0a4f04bc483fbdd04470b\androidx.startup.startup-runtime-1.1.1\AndroidManifest.xml:20:160-178
+	android:authorities
+		ADDED from [:androidx.startup.startup-runtime-1.1.1:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\52aa67dbedb0a4f04bc483fbdd04470b\androidx.startup.startup-runtime-1.1.1\AndroidManifest.xml:20:70-134
+	android:exported
+		ADDED from [:androidx.startup.startup-runtime-1.1.1:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\52aa67dbedb0a4f04bc483fbdd04470b\androidx.startup.startup-runtime-1.1.1\AndroidManifest.xml:20:135-159
+	android:name
+		ADDED from [:androidx.startup.startup-runtime-1.1.1:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\52aa67dbedb0a4f04bc483fbdd04470b\androidx.startup.startup-runtime-1.1.1\AndroidManifest.xml:20:15-69
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:com.google.android.gms.play-services-measurement-sdk-api-20.1.2:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\ccfbeb49b48775c04399190534146ee9\com.google.android.gms.play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:25:5-68
+MERGED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:19:3-66
+MERGED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:19:3-66
+	android:name
+		ADDED from [:com.google.android.gms.play-services-measurement-sdk-api-20.1.2:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\ccfbeb49b48775c04399190534146ee9\com.google.android.gms.play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:25:22-65
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from [:com.google.android.gms.play-services-measurement-sdk-api-20.1.2:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\ccfbeb49b48775c04399190534146ee9\com.google.android.gms.play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:26:5-79
+MERGED from [:com.google.android.gms.play-services-ads-identifier-18.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\b5d89b627fa174038c4f6556bb02a4ca\com.google.android.gms.play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
+MERGED from [:com.google.android.gms.play-services-ads-identifier-18.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\b5d89b627fa174038c4f6556bb02a4ca\com.google.android.gms.play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
+MERGED from [:com.google.android.gms.play-services-ads-lite-21.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\5f39aea6d144e6ef7f9c4bb587efce9d\com.google.android.gms.play-services-ads-lite-21.0.0\AndroidManifest.xml:22:3-77
+MERGED from [:com.google.android.gms.play-services-ads-lite-21.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\5f39aea6d144e6ef7f9c4bb587efce9d\com.google.android.gms.play-services-ads-lite-21.0.0\AndroidManifest.xml:22:3-77
+	android:name
+		ADDED from [:com.google.android.gms.play-services-measurement-sdk-api-20.1.2:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\ccfbeb49b48775c04399190534146ee9\com.google.android.gms.play-services-measurement-sdk-api-20.1.2\AndroidManifest.xml:26:22-76
+queries
+ADDED from [:com.google.android.gms.play-services-ads-lite-21.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\5f39aea6d144e6ef7f9c4bb587efce9d\com.google.android.gms.play-services-ads-lite-21.0.0\AndroidManifest.xml:24:3-37:13
+intent
+ADDED from [:com.google.android.gms.play-services-ads-lite-21.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\5f39aea6d144e6ef7f9c4bb587efce9d\com.google.android.gms.play-services-ads-lite-21.0.0\AndroidManifest.xml:26:5-30:14
+action#android.intent.action.VIEW
+ADDED from [:com.google.android.gms.play-services-ads-lite-21.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\5f39aea6d144e6ef7f9c4bb587efce9d\com.google.android.gms.play-services-ads-lite-21.0.0\AndroidManifest.xml:27:7-59
+	android:name
+		ADDED from [:com.google.android.gms.play-services-ads-lite-21.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\5f39aea6d144e6ef7f9c4bb587efce9d\com.google.android.gms.play-services-ads-lite-21.0.0\AndroidManifest.xml:27:15-56
+category#android.intent.category.BROWSABLE
+ADDED from [:com.google.android.gms.play-services-ads-lite-21.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\5f39aea6d144e6ef7f9c4bb587efce9d\com.google.android.gms.play-services-ads-lite-21.0.0\AndroidManifest.xml:28:7-68
+	android:name
+		ADDED from [:com.google.android.gms.play-services-ads-lite-21.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\5f39aea6d144e6ef7f9c4bb587efce9d\com.google.android.gms.play-services-ads-lite-21.0.0\AndroidManifest.xml:28:17-65
+data
+ADDED from [:com.google.android.gms.play-services-ads-lite-21.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\5f39aea6d144e6ef7f9c4bb587efce9d\com.google.android.gms.play-services-ads-lite-21.0.0\AndroidManifest.xml:29:7-38
+	android:scheme
+		ADDED from [:com.google.android.gms.play-services-ads-lite-21.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\5f39aea6d144e6ef7f9c4bb587efce9d\com.google.android.gms.play-services-ads-lite-21.0.0\AndroidManifest.xml:29:13-35
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [:com.google.android.gms.play-services-ads-lite-21.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\5f39aea6d144e6ef7f9c4bb587efce9d\com.google.android.gms.play-services-ads-lite-21.0.0\AndroidManifest.xml:40:5-254
+	android:exported
+		ADDED from [:com.google.android.gms.play-services-ads-lite-21.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\5f39aea6d144e6ef7f9c4bb587efce9d\com.google.android.gms.play-services-ads-lite-21.0.0\AndroidManifest.xml:40:178-202
+	android:configChanges
+		ADDED from [:com.google.android.gms.play-services-ads-lite-21.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\5f39aea6d144e6ef7f9c4bb587efce9d\com.google.android.gms.play-services-ads-lite-21.0.0\AndroidManifest.xml:40:68-177
+	android:theme
+		ADDED from [:com.google.android.gms.play-services-ads-lite-21.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\5f39aea6d144e6ef7f9c4bb587efce9d\com.google.android.gms.play-services-ads-lite-21.0.0\AndroidManifest.xml:40:203-251
+	android:name
+		ADDED from [:com.google.android.gms.play-services-ads-lite-21.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\5f39aea6d144e6ef7f9c4bb587efce9d\com.google.android.gms.play-services-ads-lite-21.0.0\AndroidManifest.xml:40:15-67
+provider#com.google.android.gms.ads.MobileAdsInitProvider
+ADDED from [:com.google.android.gms.play-services-ads-lite-21.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\5f39aea6d144e6ef7f9c4bb587efce9d\com.google.android.gms.play-services-ads-lite-21.0.0\AndroidManifest.xml:41:5-200
+	android:authorities
+		ADDED from [:com.google.android.gms.play-services-ads-lite-21.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\5f39aea6d144e6ef7f9c4bb587efce9d\com.google.android.gms.play-services-ads-lite-21.0.0\AndroidManifest.xml:41:79-148
+	android:exported
+		ADDED from [:com.google.android.gms.play-services-ads-lite-21.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\5f39aea6d144e6ef7f9c4bb587efce9d\com.google.android.gms.play-services-ads-lite-21.0.0\AndroidManifest.xml:41:149-173
+	android:initOrder
+		ADDED from [:com.google.android.gms.play-services-ads-lite-21.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\5f39aea6d144e6ef7f9c4bb587efce9d\com.google.android.gms.play-services-ads-lite-21.0.0\AndroidManifest.xml:41:174-197
+	android:name
+		ADDED from [:com.google.android.gms.play-services-ads-lite-21.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\5f39aea6d144e6ef7f9c4bb587efce9d\com.google.android.gms.play-services-ads-lite-21.0.0\AndroidManifest.xml:41:15-78
+service#com.google.android.gms.ads.AdService
+ADDED from [:com.google.android.gms.play-services-ads-lite-21.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\5f39aea6d144e6ef7f9c4bb587efce9d\com.google.android.gms.play-services-ads-lite-21.0.0\AndroidManifest.xml:42:5-116
+	android:enabled
+		ADDED from [:com.google.android.gms.play-services-ads-lite-21.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\5f39aea6d144e6ef7f9c4bb587efce9d\com.google.android.gms.play-services-ads-lite-21.0.0\AndroidManifest.xml:42:66-88
+	android:exported
+		ADDED from [:com.google.android.gms.play-services-ads-lite-21.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\5f39aea6d144e6ef7f9c4bb587efce9d\com.google.android.gms.play-services-ads-lite-21.0.0\AndroidManifest.xml:42:89-113
+	android:name
+		ADDED from [:com.google.android.gms.play-services-ads-lite-21.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\5f39aea6d144e6ef7f9c4bb587efce9d\com.google.android.gms.play-services-ads-lite-21.0.0\AndroidManifest.xml:42:14-65
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [:com.google.android.gms.play-services-base-18.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\cbfc7c205ff3d80fc876617f18edfe99\com.google.android.gms.play-services-base-18.0.0\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [:com.google.android.gms.play-services-base-18.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\cbfc7c205ff3d80fc876617f18edfe99\com.google.android.gms.play-services-base-18.0.0\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [:com.google.android.gms.play-services-base-18.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\cbfc7c205ff3d80fc876617f18edfe99\com.google.android.gms.play-services-base-18.0.0\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [:com.google.android.gms.play-services-base-18.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\cbfc7c205ff3d80fc876617f18edfe99\com.google.android.gms.play-services-base-18.0.0\AndroidManifest.xml:20:19-85
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:21:3-79
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:21:20-76
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:22:3-75
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:22:20-72
+meta-data#androidx.work.WorkManagerInitializer
+ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:25:7-105
+	android:value
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:25:70-102
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:25:18-69
+service#androidx.work.impl.background.systemalarm.SystemAlarmService
+ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:27:5-229
+	android:enabled
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:27:122-181
+	android:exported
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:27:182-206
+	tools:targetApi
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:27:207-226
+	android:directBootAware
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:27:90-121
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:27:14-89
+service#androidx.work.impl.background.systemjob.SystemJobService
+ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:28:5-279
+	android:enabled
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:28:118-175
+	android:exported
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:28:176-199
+	android:permission
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:28:200-256
+	tools:targetApi
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:28:257-276
+	android:directBootAware
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:28:86-117
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:28:14-85
+service#androidx.work.impl.foreground.SystemForegroundService
+ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:29:5-227
+	android:enabled
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:29:115-179
+	android:exported
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:29:180-204
+	tools:targetApi
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:29:205-224
+	android:directBootAware
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:29:83-114
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:29:14-82
+receiver#androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:30:5-193
+	android:enabled
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:30:123-145
+	android:exported
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:30:146-170
+	tools:targetApi
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:30:171-190
+	android:directBootAware
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:30:91-122
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:30:15-90
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:31:5-36:16
+	android:enabled
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:31:141-164
+	android:exported
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:31:165-189
+	tools:targetApi
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:31:190-209
+	android:directBootAware
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:31:109-140
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:31:15-108
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:32:7-35:23
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:33:9-79
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:33:17-76
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:34:9-82
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:34:17-79
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:37:5-42:16
+	android:enabled
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:37:139-162
+	android:exported
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:37:163-187
+	tools:targetApi
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:37:188-207
+	android:directBootAware
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:37:107-138
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:37:15-106
+intent-filter#action:name:android.intent.action.BATTERY_LOW+action:name:android.intent.action.BATTERY_OKAY
+ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:38:7-41:23
+action#android.intent.action.BATTERY_OKAY
+ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:39:9-69
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:39:17-66
+action#android.intent.action.BATTERY_LOW
+ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:40:9-68
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:40:17-65
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:43:5-48:16
+	android:enabled
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:43:139-162
+	android:exported
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:43:163-187
+	tools:targetApi
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:43:188-207
+	android:directBootAware
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:43:107-138
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:43:15-106
+intent-filter#action:name:android.intent.action.DEVICE_STORAGE_LOW+action:name:android.intent.action.DEVICE_STORAGE_OK
+ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:44:7-47:23
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:45:9-75
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:45:17-72
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:46:9-74
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:46:17-71
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:49:5-53:16
+	android:enabled
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:49:138-161
+	android:exported
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:49:162-186
+	tools:targetApi
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:49:187-206
+	android:directBootAware
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:49:106-137
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:49:15-105
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:50:7-52:23
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:51:9-71
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:51:17-68
+receiver#androidx.work.impl.background.systemalarm.RescheduleReceiver
+ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:54:5-60:16
+	android:enabled
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:54:123-146
+	android:exported
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:54:147-171
+	tools:targetApi
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:54:172-191
+	android:directBootAware
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:54:91-122
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:54:15-90
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:55:7-59:23
+action#android.intent.action.TIME_SET
+ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:57:9-65
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:57:17-62
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:58:9-73
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:58:17-70
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:61:5-65:16
+	android:enabled
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:61:134-193
+	android:exported
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:61:194-218
+	tools:targetApi
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:61:219-238
+	android:directBootAware
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:61:102-133
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:61:15-101
+intent-filter#action:name:androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:62:7-64:23
+action#androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:63:9-90
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:63:17-87
+receiver#androidx.work.impl.diagnostics.DiagnosticsReceiver
+ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:66:5-70:16
+	android:enabled
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:66:113-135
+	android:exported
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:66:136-159
+	android:permission
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:66:160-204
+	tools:targetApi
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:66:205-224
+	android:directBootAware
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:66:81-112
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:66:15-80
+intent-filter#action:name:androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:67:7-69:23
+action#androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:68:9-80
+	android:name
+		ADDED from [:androidx.work.work-runtime-2.7.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\50fd80eace3b52f64c7038bafa2536ac\androidx.work.work-runtime-2.7.0\AndroidManifest.xml:68:17-77
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [:androidx.lifecycle.lifecycle-process-2.4.1:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\27dad76ed70186405b652d2b8945900c\androidx.lifecycle.lifecycle-process-2.4.1\AndroidManifest.xml:21:7-115
+	android:value
+		ADDED from [:androidx.lifecycle.lifecycle-process-2.4.1:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\27dad76ed70186405b652d2b8945900c\androidx.lifecycle.lifecycle-process-2.4.1\AndroidManifest.xml:21:80-112
+	android:name
+		ADDED from [:androidx.lifecycle.lifecycle-process-2.4.1:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\27dad76ed70186405b652d2b8945900c\androidx.lifecycle.lifecycle-process-2.4.1\AndroidManifest.xml:21:18-79
+meta-data#com.google.android.gms.version
+ADDED from [:com.google.android.gms.play-services-basement-18.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\c158dbe6bad5056979dbf1ee0625408f\com.google.android.gms.play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [:com.google.android.gms.play-services-basement-18.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\c158dbe6bad5056979dbf1ee0625408f\com.google.android.gms.play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [:com.google.android.gms.play-services-basement-18.0.0:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\c158dbe6bad5056979dbf1ee0625408f\com.google.android.gms.play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [:androidx.room.room-runtime-2.2.5:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\28e9fb3eede996dd8d91f8bfd7ee4a2a\androidx.room.room-runtime-2.2.5\AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [:androidx.room.room-runtime-2.2.5:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\28e9fb3eede996dd8d91f8bfd7ee4a2a\androidx.room.room-runtime-2.2.5\AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [:androidx.room.room-runtime-2.2.5:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\28e9fb3eede996dd8d91f8bfd7ee4a2a\androidx.room.room-runtime-2.2.5\AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [:androidx.room.room-runtime-2.2.5:] C:\Users\YGT\.gradle\caches\transforms-2\files-2.1\28e9fb3eede996dd8d91f8bfd7ee4a2a\androidx.room.room-runtime-2.2.5\AndroidManifest.xml:26:13-74
+uses-library#org.apache.http.legacy
+ADDED from [:unityLibrary:GoogleMobileAdsPlugin.androidlib] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\build\intermediates\library_manifest\release\AndroidManifest.xml:12:9-14:40
+	android:required
+		ADDED from [:unityLibrary:GoogleMobileAdsPlugin.androidlib] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\build\intermediates\library_manifest\release\AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from [:unityLibrary:GoogleMobileAdsPlugin.androidlib] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\build\intermediates\library_manifest\release\AndroidManifest.xml:13:13-50
+meta-data#com.google.android.gms.ads.APPLICATION_ID
+ADDED from [:unityLibrary:GoogleMobileAdsPlugin.androidlib] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\build\intermediates\library_manifest\release\AndroidManifest.xml:16:9-18:70
+	android:value
+		ADDED from [:unityLibrary:GoogleMobileAdsPlugin.androidlib] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\build\intermediates\library_manifest\release\AndroidManifest.xml:18:13-67
+	android:name
+		ADDED from [:unityLibrary:GoogleMobileAdsPlugin.androidlib] C:\Users\YGT\Desktop\Yazilim\Unity\Pat Pat Ball\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\GoogleMobileAdsPlugin.androidlib\build\intermediates\library_manifest\release\AndroidManifest.xml:17:13-69
