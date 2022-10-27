@@ -4,6 +4,23 @@
             "outputFile": "C:\\Users\\YGT\\Desktop\\Yazilim\\Unity\\Pat Pat Ball\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-ka\\values-ka.xml",
             "map": [
                 {
+                    "source": "C:\\Users\\YGT\\.gradle\\caches\\transforms-2\\files-2.1\\a8c31749538c7be416ee48fd9222f656\\com.google.android.gms.play-services-ads-21.3.0\\res\\values-ka\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "199,277,381,434,548,609,725,816,859,936,970,1005,1059,1137",
+                        "endColumns": "77,103,52,113,60,115,90,42,76,33,34,53,77,42",
+                        "endOffsets": "276,380,433,547,608,724,815,858,935,969,1004,1058,1136,1179"
+                    },
+                    "to": {
+                        "startLines": "24,25,26,27,28,29,30,31,32,33,34,35,36,37",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "2699,2781,2889,2946,3064,3129,3249,3344,3391,3472,3510,3549,3607,3689",
+                        "endColumns": "81,107,56,117,64,119,94,46,80,37,38,57,81,46",
+                        "endOffsets": "2776,2884,2941,3059,3124,3244,3339,3386,3467,3505,3544,3602,3684,3731"
+                    }
+                },
+                {
                     "source": "C:\\Users\\YGT\\.gradle\\caches\\transforms-2\\files-2.1\\cbfc7c205ff3d80fc876617f18edfe99\\com.google.android.gms.play-services-base-18.0.0\\res\\values-ka\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
@@ -21,20 +38,20 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\YGT\\.gradle\\caches\\transforms-2\\files-2.1\\280e98333702425c7d840580f19ed007\\com.google.android.gms.play-services-ads-21.0.0\\res\\values-ka\\values.xml",
+                    "source": "C:\\Users\\YGT\\.gradle\\caches\\transforms-2\\files-2.1\\0e3f4b92cdfe1f27ebe42738bdc2b14c\\androidx.browser.browser-1.4.0\\res\\values-ka\\values-ka.xml",
                     "from": {
-                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17",
-                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0",
-                        "startOffsets": "199,277,381,434,548,609,725,816,859,936,970,1005,1059,1137",
-                        "endColumns": "77,103,52,113,60,115,90,42,76,33,34,53,77,42",
-                        "endOffsets": "276,380,433,547,608,724,815,858,935,969,1004,1058,1136,1179"
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,161,264,374",
+                        "endColumns": "105,102,109,104",
+                        "endOffsets": "156,259,369,474"
                     },
                     "to": {
-                        "startLines": "20,21,22,23,24,25,26,27,28,29,30,31,32,33",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "2275,2357,2465,2522,2640,2705,2825,2920,2967,3048,3086,3125,3183,3265",
-                        "endColumns": "81,107,56,117,64,119,94,46,80,37,38,57,81,46",
-                        "endOffsets": "2352,2460,2517,2635,2700,2820,2915,2962,3043,3081,3120,3178,3260,3307"
+                        "startLines": "20,21,22,23",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "2275,2381,2484,2594",
+                        "endColumns": "105,102,109,104",
+                        "endOffsets": "2376,2479,2589,2694"
                     }
                 },
                 {
@@ -64,11 +81,11 @@
                         "endOffsets": "151"
                     },
                     "to": {
-                        "startLines": "34",
+                        "startLines": "38",
                         "startColumns": "4",
-                        "startOffsets": "3312",
+                        "startOffsets": "3736",
                         "endColumns": "100",
-                        "endOffsets": "3408"
+                        "endOffsets": "3832"
                     }
                 }
             ]

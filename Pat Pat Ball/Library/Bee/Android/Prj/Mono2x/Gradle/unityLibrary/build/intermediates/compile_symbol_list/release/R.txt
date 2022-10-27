@@ -245,6 +245,10 @@ int string common_google_play_services_wear_update_text 0x0
 int string common_open_on_phone 0x0
 int string common_signin_button_text 0x0
 int string common_signin_button_text_long 0x0
+int string copy_toast_msg 0x0
+int string fallback_menu_item_copy_link 0x0
+int string fallback_menu_item_open_in_browser 0x0
+int string fallback_menu_item_share_link 0x0
 int string offline_notification_text 0x0
 int string offline_notification_title 0x0
 int string offline_opt_in_confirm 0x0
@@ -337,3 +341,4 @@ int[] styleable SignInButton { 0x0, 0x0, 0x0 }
 int styleable SignInButton_buttonSize 0
 int styleable SignInButton_colorScheme 1
 int styleable SignInButton_scopeUris 2
+int xml image_share_filepaths 0x0

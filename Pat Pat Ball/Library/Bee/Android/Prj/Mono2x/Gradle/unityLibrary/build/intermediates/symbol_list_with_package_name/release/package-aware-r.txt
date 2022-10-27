@@ -246,6 +246,10 @@ string common_google_play_services_wear_update_text
 string common_open_on_phone
 string common_signin_button_text
 string common_signin_button_text_long
+string copy_toast_msg
+string fallback_menu_item_copy_link
+string fallback_menu_item_open_in_browser
+string fallback_menu_item_share_link
 string offline_notification_text
 string offline_notification_title
 string offline_opt_in_confirm
@@ -284,3 +288,4 @@ styleable GradientColor android_centerColor android_centerX android_centerY andr
 styleable GradientColorItem android_color android_offset
 styleable LoadingImageView circleCrop imageAspectRatio imageAspectRatioAdjust
 styleable SignInButton buttonSize colorScheme scopeUris
+xml image_share_filepaths

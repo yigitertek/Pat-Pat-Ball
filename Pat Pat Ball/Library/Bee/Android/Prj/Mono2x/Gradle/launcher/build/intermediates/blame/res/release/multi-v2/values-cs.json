@@ -13,11 +13,11 @@
                         "endOffsets": "151"
                     },
                     "to": {
-                        "startLines": "34",
+                        "startLines": "38",
                         "startColumns": "4",
-                        "startOffsets": "3326",
+                        "startOffsets": "3746",
                         "endColumns": "100",
-                        "endOffsets": "3422"
+                        "endOffsets": "3842"
                     }
                 },
                 {
@@ -38,20 +38,20 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\YGT\\.gradle\\caches\\transforms-2\\files-2.1\\280e98333702425c7d840580f19ed007\\com.google.android.gms.play-services-ads-21.0.0\\res\\values-cs\\values.xml",
+                    "source": "C:\\Users\\YGT\\.gradle\\caches\\transforms-2\\files-2.1\\0e3f4b92cdfe1f27ebe42738bdc2b14c\\androidx.browser.browser-1.4.0\\res\\values-cs\\values-cs.xml",
                     "from": {
-                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17",
-                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0",
-                        "startOffsets": "199,276,392,442,547,603,699,787,830,912,948,985,1041,1118",
-                        "endColumns": "76,115,49,104,55,95,87,42,81,35,36,55,76,43",
-                        "endOffsets": "275,391,441,546,602,698,786,829,911,947,984,1040,1117,1161"
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,157,260,374",
+                        "endColumns": "101,102,113,100",
+                        "endOffsets": "152,255,369,470"
                     },
                     "to": {
-                        "startLines": "20,21,22,23,24,25,26,27,28,29,30,31,32,33",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "2307,2388,2508,2562,2671,2731,2831,2923,2970,3056,3096,3137,3197,3278",
-                        "endColumns": "80,119,53,108,59,99,91,46,85,39,40,59,80,47",
-                        "endOffsets": "2383,2503,2557,2666,2726,2826,2918,2965,3051,3091,3132,3192,3273,3321"
+                        "startLines": "20,21,22,23",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "2307,2409,2512,2626",
+                        "endColumns": "101,102,113,100",
+                        "endOffsets": "2404,2507,2621,2722"
                     }
                 },
                 {
@@ -69,6 +69,23 @@
                         "startOffsets": "1049",
                         "endColumns": "142",
                         "endOffsets": "1187"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\YGT\\.gradle\\caches\\transforms-2\\files-2.1\\a8c31749538c7be416ee48fd9222f656\\com.google.android.gms.play-services-ads-21.3.0\\res\\values-cs\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "199,276,392,442,547,603,699,787,830,912,948,985,1041,1118",
+                        "endColumns": "76,115,49,104,55,95,87,42,81,35,36,55,76,43",
+                        "endOffsets": "275,391,441,546,602,698,786,829,911,947,984,1040,1117,1161"
+                    },
+                    "to": {
+                        "startLines": "24,25,26,27,28,29,30,31,32,33,34,35,36,37",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "2727,2808,2928,2982,3091,3151,3251,3343,3390,3476,3516,3557,3617,3698",
+                        "endColumns": "80,119,53,108,59,99,91,46,85,39,40,59,80,47",
+                        "endOffsets": "2803,2923,2977,3086,3146,3246,3338,3385,3471,3511,3552,3612,3693,3741"
                     }
                 }
             ]

@@ -8,11 +8,13 @@ ScriptsOnlyBuild:
     - CameraShake
     - DestroyObject
     - GameManager
+    - IAPController
     - LevelManager
     - Player
     - Shop
     - SingletonBanner
     - Slider
+    - SoundManager
     - UIManager
     GoogleMobileAds.Editor.dll:
     - GoogleMobileAds.Editor.GoogleMobileAdsSettings
@@ -105,8 +107,14 @@ ScriptsOnlyBuild:
     fullTypeName: UIManager
     methodName: Sound_On
   - assembly: Assembly-CSharp
+    fullTypeName: SoundManager
+    methodName: ButtonSound
+  - assembly: Assembly-CSharp
     fullTypeName: UIManager
     methodName: Sound_Off
+  - assembly: Assembly-CSharp
+    fullTypeName: SoundManager
+    methodName: ButtonSound
   - assembly: Assembly-CSharp
     fullTypeName: AdManager
     methodName: ShowInterstitial
@@ -114,29 +122,92 @@ ScriptsOnlyBuild:
     fullTypeName: UIManager
     methodName: NextScene
   - assembly: Assembly-CSharp
-    fullTypeName: AdManager
-    methodName: ShowRewardedAd
+    fullTypeName: Shop
+    methodName: Lock2Open
   - assembly: Assembly-CSharp
-    fullTypeName: UIManager
-    methodName: Settings_Open
+    fullTypeName: SoundManager
+    methodName: ObjectHitSound
   - assembly: Assembly-CSharp
-    fullTypeName: UIManager
-    methodName: Vibration_On
+    fullTypeName: Shop
+    methodName: Lock3Open
+  - assembly: Assembly-CSharp
+    fullTypeName: IAPController
+    methodName: IAPButton
+  - assembly: Assembly-CSharp
+    fullTypeName: Shop
+    methodName: Lock5Open
   - assembly: Assembly-CSharp
     fullTypeName: Shop
     methodName: Item1Open
   - assembly: Assembly-CSharp
+    fullTypeName: AdManager
+    methodName: ShowRewardedAd
+  - assembly: Assembly-CSharp
+    fullTypeName: Shop
+    methodName: Item4Open
+  - assembly: Assembly-CSharp
+    fullTypeName: UIManager
+    methodName: Settings_Open
+  - assembly: Assembly-CSharp
+    fullTypeName: SoundManager
+    methodName: ButtonSound
+  - assembly: Assembly-CSharp
+    fullTypeName: UIManager
+    methodName: Vibration_On
+  - assembly: Assembly-CSharp
+    fullTypeName: SoundManager
+    methodName: ButtonSound
+  - assembly: Assembly-CSharp
+    fullTypeName: IAPController
+    methodName: IAPButton
+  - assembly: Assembly-CSharp
+    fullTypeName: IAPController
+    methodName: IAPButton
+  - assembly: Assembly-CSharp
+    fullTypeName: Shop
+    methodName: Item2Open
+  - assembly: Assembly-CSharp
+    fullTypeName: Shop
+    methodName: Lock4Open
+  - assembly: Assembly-CSharp
+    fullTypeName: Shop
+    methodName: Lock6Open
+  - assembly: Assembly-CSharp
+    fullTypeName: SoundManager
+    methodName: ObjectHitSound
+  - assembly: Assembly-CSharp
     fullTypeName: UIManager
     methodName: Settings_Close
-  - assembly: UnityEngine.CoreModule
-    fullTypeName: UnityEngine.GameObject
-    methodName: SetActive
+  - assembly: Assembly-CSharp
+    fullTypeName: SoundManager
+    methodName: ButtonSound
   - assembly: UnityEngine.CoreModule
     fullTypeName: UnityEngine.GameObject
     methodName: SetActive
   - assembly: Assembly-CSharp
+    fullTypeName: SoundManager
+    methodName: ButtonSound
+  - assembly: Assembly-CSharp
+    fullTypeName: Shop
+    methodName: Item5Open
+  - assembly: UnityEngine.CoreModule
+    fullTypeName: UnityEngine.GameObject
+    methodName: SetActive
+  - assembly: Assembly-CSharp
+    fullTypeName: SoundManager
+    methodName: ButtonSound
+  - assembly: Assembly-CSharp
+    fullTypeName: Shop
+    methodName: Item3Open
+  - assembly: Assembly-CSharp
     fullTypeName: UIManager
     methodName: Vibration_Off
+  - assembly: Assembly-CSharp
+    fullTypeName: SoundManager
+    methodName: ButtonSound
+  - assembly: Assembly-CSharp
+    fullTypeName: Shop
+    methodName: Item6Open
   - assembly: Assembly-CSharp
     fullTypeName: UIManager
     methodName: NextScene
@@ -147,29 +218,107 @@ ScriptsOnlyBuild:
     fullTypeName: UIManager
     methodName: Sound_On
   - assembly: Assembly-CSharp
+    fullTypeName: SoundManager
+    methodName: ButtonSound
+  - assembly: Assembly-CSharp
     fullTypeName: UIManager
     methodName: Sound_Off
+  - assembly: Assembly-CSharp
+    fullTypeName: SoundManager
+    methodName: ButtonSound
   - assembly: Assembly-CSharp
     fullTypeName: AdManager
     methodName: ShowInterstitial
   - assembly: Assembly-CSharp
+    fullTypeName: UIManager
+    methodName: NextScene
+  - assembly: Assembly-CSharp
+    fullTypeName: Shop
+    methodName: Lock2Open
+  - assembly: Assembly-CSharp
+    fullTypeName: SoundManager
+    methodName: ObjectHitSound
+  - assembly: Assembly-CSharp
+    fullTypeName: Shop
+    methodName: Lock3Open
+  - assembly: Assembly-CSharp
+    fullTypeName: IAPController
+    methodName: IAPButton
+  - assembly: Assembly-CSharp
+    fullTypeName: Shop
+    methodName: Lock5Open
+  - assembly: Assembly-CSharp
+    fullTypeName: Shop
+    methodName: Item1Open
+  - assembly: Assembly-CSharp
     fullTypeName: AdManager
     methodName: ShowRewardedAd
   - assembly: Assembly-CSharp
-    fullTypeName: UIManager
-    methodName: NextScene
+    fullTypeName: Shop
+    methodName: Item4Open
   - assembly: Assembly-CSharp
     fullTypeName: UIManager
     methodName: Settings_Open
   - assembly: Assembly-CSharp
+    fullTypeName: SoundManager
+    methodName: ButtonSound
+  - assembly: Assembly-CSharp
     fullTypeName: UIManager
     methodName: Vibration_On
+  - assembly: Assembly-CSharp
+    fullTypeName: SoundManager
+    methodName: ButtonSound
+  - assembly: Assembly-CSharp
+    fullTypeName: IAPController
+    methodName: IAPButton
+  - assembly: Assembly-CSharp
+    fullTypeName: IAPController
+    methodName: IAPButton
+  - assembly: Assembly-CSharp
+    fullTypeName: Shop
+    methodName: Item2Open
+  - assembly: Assembly-CSharp
+    fullTypeName: Shop
+    methodName: Lock4Open
+  - assembly: Assembly-CSharp
+    fullTypeName: Shop
+    methodName: Lock6Open
+  - assembly: Assembly-CSharp
+    fullTypeName: SoundManager
+    methodName: ObjectHitSound
   - assembly: Assembly-CSharp
     fullTypeName: UIManager
     methodName: Settings_Close
   - assembly: Assembly-CSharp
+    fullTypeName: SoundManager
+    methodName: ButtonSound
+  - assembly: UnityEngine.CoreModule
+    fullTypeName: UnityEngine.GameObject
+    methodName: SetActive
+  - assembly: Assembly-CSharp
+    fullTypeName: SoundManager
+    methodName: ButtonSound
+  - assembly: Assembly-CSharp
+    fullTypeName: Shop
+    methodName: Item5Open
+  - assembly: UnityEngine.CoreModule
+    fullTypeName: UnityEngine.GameObject
+    methodName: SetActive
+  - assembly: Assembly-CSharp
+    fullTypeName: SoundManager
+    methodName: ButtonSound
+  - assembly: Assembly-CSharp
+    fullTypeName: Shop
+    methodName: Item3Open
+  - assembly: Assembly-CSharp
     fullTypeName: UIManager
     methodName: Vibration_Off
+  - assembly: Assembly-CSharp
+    fullTypeName: SoundManager
+    methodName: ButtonSound
+  - assembly: Assembly-CSharp
+    fullTypeName: Shop
+    methodName: Item6Open
   sceneClasses:
     Assets/Scenes/Level_1.unity:
     - Class: 1
@@ -200,7 +349,9 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
-    - Class: 89
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
       Script: {instanceID: 0}
     - Class: 91
       Script: {instanceID: 0}
@@ -213,49 +364,53 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1716}
+      Script: {instanceID: 1738}
     - Class: 114
-      Script: {instanceID: 1908}
+      Script: {instanceID: 1950}
     - Class: 114
-      Script: {instanceID: 2582}
+      Script: {instanceID: 2194}
     - Class: 114
-      Script: {instanceID: 2922}
+      Script: {instanceID: 2678}
     - Class: 114
-      Script: {instanceID: 3164}
+      Script: {instanceID: 3068}
     - Class: 114
-      Script: {instanceID: 3504}
+      Script: {instanceID: 3326}
     - Class: 114
-      Script: {instanceID: 3522}
+      Script: {instanceID: 3712}
     - Class: 114
-      Script: {instanceID: 4012}
+      Script: {instanceID: 3732}
     - Class: 114
-      Script: {instanceID: 4116}
+      Script: {instanceID: 4276}
     - Class: 114
-      Script: {instanceID: 4398}
+      Script: {instanceID: 4388}
     - Class: 114
-      Script: {instanceID: 4930}
+      Script: {instanceID: 4696}
     - Class: 114
-      Script: {instanceID: 5634}
+      Script: {instanceID: 5302}
     - Class: 114
-      Script: {instanceID: 5768}
+      Script: {instanceID: 6106}
     - Class: 114
-      Script: {instanceID: 6420}
+      Script: {instanceID: 6252}
     - Class: 114
-      Script: {instanceID: 6490}
+      Script: {instanceID: 6482}
     - Class: 114
-      Script: {instanceID: 6596}
+      Script: {instanceID: 6796}
     - Class: 114
-      Script: {instanceID: 6978}
+      Script: {instanceID: 7012}
     - Class: 114
-      Script: {instanceID: 7246}
+      Script: {instanceID: 7096}
     - Class: 114
-      Script: {instanceID: 7472}
+      Script: {instanceID: 7206}
     - Class: 114
-      Script: {instanceID: 7744}
+      Script: {instanceID: 7654}
     - Class: 114
-      Script: {instanceID: 9018}
+      Script: {instanceID: 7942}
     - Class: 114
-      Script: {instanceID: 30342}
+      Script: {instanceID: 8182}
+    - Class: 114
+      Script: {instanceID: 8478}
+    - Class: 114
+      Script: {instanceID: 9924}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -303,13 +458,15 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 54
       Script: {instanceID: 0}
-    - Class: 64
-      Script: {instanceID: 0}
     - Class: 65
       Script: {instanceID: 0}
     - Class: 74
       Script: {instanceID: 0}
     - Class: 81
+      Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
       Script: {instanceID: 0}
     - Class: 89
       Script: {instanceID: 0}
@@ -317,54 +474,60 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 95
       Script: {instanceID: 0}
+    - Class: 96
+      Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1716}
+      Script: {instanceID: 1738}
     - Class: 114
-      Script: {instanceID: 1908}
+      Script: {instanceID: 1950}
     - Class: 114
-      Script: {instanceID: 2582}
+      Script: {instanceID: 2194}
     - Class: 114
-      Script: {instanceID: 2922}
+      Script: {instanceID: 2678}
     - Class: 114
-      Script: {instanceID: 3164}
+      Script: {instanceID: 3068}
     - Class: 114
-      Script: {instanceID: 3504}
+      Script: {instanceID: 3326}
     - Class: 114
-      Script: {instanceID: 3522}
+      Script: {instanceID: 3712}
     - Class: 114
-      Script: {instanceID: 4012}
+      Script: {instanceID: 3732}
     - Class: 114
-      Script: {instanceID: 4116}
+      Script: {instanceID: 4276}
     - Class: 114
-      Script: {instanceID: 4398}
+      Script: {instanceID: 4388}
     - Class: 114
-      Script: {instanceID: 4930}
+      Script: {instanceID: 4696}
     - Class: 114
-      Script: {instanceID: 5500}
+      Script: {instanceID: 5302}
     - Class: 114
-      Script: {instanceID: 5634}
+      Script: {instanceID: 6106}
     - Class: 114
-      Script: {instanceID: 5768}
+      Script: {instanceID: 6252}
     - Class: 114
-      Script: {instanceID: 6420}
+      Script: {instanceID: 6482}
     - Class: 114
-      Script: {instanceID: 6490}
+      Script: {instanceID: 6796}
     - Class: 114
-      Script: {instanceID: 6596}
+      Script: {instanceID: 7012}
     - Class: 114
-      Script: {instanceID: 6978}
+      Script: {instanceID: 7096}
     - Class: 114
-      Script: {instanceID: 7246}
+      Script: {instanceID: 7206}
     - Class: 114
-      Script: {instanceID: 7472}
+      Script: {instanceID: 7654}
     - Class: 114
-      Script: {instanceID: 7744}
+      Script: {instanceID: 7942}
     - Class: 114
-      Script: {instanceID: 9018}
+      Script: {instanceID: 8182}
+    - Class: 114
+      Script: {instanceID: 8478}
+    - Class: 114
+      Script: {instanceID: 9924}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -413,35 +576,35 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1716}
+      Script: {instanceID: 1738}
     - Class: 114
-      Script: {instanceID: 2438}
+      Script: {instanceID: 2522}
     - Class: 114
-      Script: {instanceID: 2902}
+      Script: {instanceID: 3042}
     - Class: 114
-      Script: {instanceID: 2922}
+      Script: {instanceID: 3068}
     - Class: 114
-      Script: {instanceID: 3164}
+      Script: {instanceID: 3326}
     - Class: 114
-      Script: {instanceID: 4532}
+      Script: {instanceID: 4856}
     - Class: 114
-      Script: {instanceID: 4652}
+      Script: {instanceID: 4990}
     - Class: 114
-      Script: {instanceID: 4944}
+      Script: {instanceID: 5316}
     - Class: 114
-      Script: {instanceID: 5500}
+      Script: {instanceID: 5954}
     - Class: 114
-      Script: {instanceID: 5524}
+      Script: {instanceID: 5978}
     - Class: 114
-      Script: {instanceID: 5768}
+      Script: {instanceID: 6252}
     - Class: 114
-      Script: {instanceID: 6264}
+      Script: {instanceID: 6840}
     - Class: 114
-      Script: {instanceID: 6420}
+      Script: {instanceID: 7012}
     - Class: 114
-      Script: {instanceID: 6596}
+      Script: {instanceID: 7206}
     - Class: 114
-      Script: {instanceID: 6978}
+      Script: {instanceID: 7654}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -543,6 +706,12 @@ ScriptsOnlyBuild:
     className: SimpleScript
   - hash:
       serializedVersion: 2
+      Hash: 7dcab1504f110b1e2bf41cdf6cd743fd
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: IAPController
+  - hash:
+      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Unity.Notifications.Android.dll
     namespaceName: Unity.Notifications.Android
@@ -585,7 +754,7 @@ ScriptsOnlyBuild:
     className: UnityOnJointBreakMessageListener
   - hash:
       serializedVersion: 2
-      Hash: d8962c2d3b78342990d1a30d8c9e32b0
+      Hash: c9146427833d17e4e513f0a90d2a0ef0
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: UIManager
@@ -952,6 +1121,12 @@ ScriptsOnlyBuild:
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.Services.Analytics.dll
+    namespaceName: Unity.Services.Analytics
+    className: AnalyticsLifetime
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Unity.VisualScripting.Core.dll
     namespaceName: Unity.VisualScripting
     className: UnityOnCollisionStay2DMessageListener
@@ -1167,7 +1342,7 @@ ScriptsOnlyBuild:
     className: Toggle
   - hash:
       serializedVersion: 2
-      Hash: 67f1c43f58947daf4a8d975a442f24bc
+      Hash: 6c607e8fed1037b19364b06da5bd7b23
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: Player
@@ -1233,6 +1408,12 @@ ScriptsOnlyBuild:
     className: UnityOnBecameInvisibleMessageListener
   - hash:
       serializedVersion: 2
+      Hash: 0d8cdd6863820b8f53f94840346afd04
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: SoundManager
+  - hash:
+      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UIElements
@@ -1258,9 +1439,21 @@ ScriptsOnlyBuild:
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.Purchasing.Stores.dll
+    namespaceName: UnityEngine.Purchasing
+    className: LifecycleNotifier
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Unity.AdaptivePerformance.Samsung.Android.dll
     namespaceName: UnityEngine.AdaptivePerformance
     className: AdaptiveVariableRefreshRate
+  - hash:
+      serializedVersion: 2
+      Hash: 323e0898bd28e1e9247553db19477fd2
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Shop
   - hash:
       serializedVersion: 2
       Hash: 2574ac7d50617d23cdefe4ad22f5e1ad
@@ -1321,6 +1514,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
     className: TextMeshProUGUI
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.Purchasing.Stores.dll
+    namespaceName: UnityEngine.Purchasing.Extension
+    className: UnityUtil
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
@@ -1399,6 +1598,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
     className: Outline
+  - hash:
+      serializedVersion: 2
+      Hash: 30eb564bd7e3b65ae966828be9e631a8
+    assemblyName: UnityEngine.Purchasing.Codeless.dll
+    namespaceName: UnityEngine.Purchasing
+    className: IAPButton
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
@@ -1569,6 +1774,12 @@ ScriptsOnlyBuild:
     className: AdaptivePerformanceManagerSettings
   - hash:
       serializedVersion: 2
+      Hash: 06fe0c6f1328047d1063ec79291e7f8a
+    assemblyName: UnityEngine.Purchasing.Codeless.dll
+    namespaceName: UnityEngine.Purchasing
+    className: IAPListener
+  - hash:
+      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Unity.VisualScripting.Core.dll
     namespaceName: Unity.VisualScripting
@@ -1603,6 +1814,12 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp.dll
     namespaceName: TMPro
     className: TMP_PhoneNumberValidator
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.Purchasing.Stores.dll
+    namespaceName: UnityEngine.Purchasing
+    className: UIFakeStoreWindow
   - hash:
       serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
@@ -1675,12 +1892,6 @@ ScriptsOnlyBuild:
     assemblyName: Unity.VisualScripting.Core.dll
     namespaceName: Unity.VisualScripting
     className: UnityOnSliderValueChangedMessageListener
-  - hash:
-      serializedVersion: 2
-      Hash: 77ffa1d798f7e9b4dc2c7cf1ca5fc2a2
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: Shop
   platform: 13
   scenePathNames:
   - Assets/Scenes/Loading.unity

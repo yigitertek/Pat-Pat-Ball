@@ -13,11 +13,11 @@
                         "endOffsets": "151"
                     },
                     "to": {
-                        "startLines": "34",
+                        "startLines": "38",
                         "startColumns": "4",
-                        "startOffsets": "3420",
+                        "startOffsets": "3834",
                         "endColumns": "100",
-                        "endOffsets": "3516"
+                        "endOffsets": "3930"
                     }
                 },
                 {
@@ -55,7 +55,24 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\YGT\\.gradle\\caches\\transforms-2\\files-2.1\\280e98333702425c7d840580f19ed007\\com.google.android.gms.play-services-ads-21.0.0\\res\\values-nl\\values.xml",
+                    "source": "C:\\Users\\YGT\\.gradle\\caches\\transforms-2\\files-2.1\\0e3f4b92cdfe1f27ebe42738bdc2b14c\\androidx.browser.browser-1.4.0\\res\\values-nl\\values-nl.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,158,259,370",
+                        "endColumns": "102,100,110,98",
+                        "endOffsets": "153,254,365,464"
+                    },
+                    "to": {
+                        "startLines": "20,21,22,23",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "2357,2460,2561,2672",
+                        "endColumns": "102,100,110,98",
+                        "endOffsets": "2455,2556,2667,2766"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\YGT\\.gradle\\caches\\transforms-2\\files-2.1\\a8c31749538c7be416ee48fd9222f656\\com.google.android.gms.play-services-ads-21.3.0\\res\\values-nl\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -64,11 +81,11 @@
                         "endOffsets": "277,395,445,555,615,734,822,868,958,996,1032,1081,1162,1205"
                     },
                     "to": {
-                        "startLines": "20,21,22,23,24,25,26,27,28,29,30,31,32,33",
+                        "startLines": "24,25,26,27,28,29,30,31,32,33,34,35,36,37",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "2357,2440,2562,2616,2730,2794,2917,3009,3059,3153,3195,3235,3288,3373",
+                        "startOffsets": "2771,2854,2976,3030,3144,3208,3331,3423,3473,3567,3609,3649,3702,3787",
                         "endColumns": "82,121,53,113,63,122,91,49,93,41,39,52,84,46",
-                        "endOffsets": "2435,2557,2611,2725,2789,2912,3004,3054,3148,3190,3230,3283,3368,3415"
+                        "endOffsets": "2849,2971,3025,3139,3203,3326,3418,3468,3562,3604,3644,3697,3782,3829"
                     }
                 }
             ]

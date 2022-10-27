@@ -15,6 +15,8 @@ Library\Bee\artifacts\mvdfrm\Unity.Notifications.iOS.ref.dll_BE49C1D8ACC4021C.mv
 Library\Bee\artifacts\mvdfrm\Unity.PlasticSCM.Editor.ref.dll_EBB1919501649DC3.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.Profiling.Core.ref.dll_5B3B8A0C4A5BD9D8.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.Rider.Editor.ref.dll_12912411083945D2.mvfrm
+Library\Bee\artifacts\mvdfrm\Unity.Services.Analytics.Editor.ref.dll_AE07CC41CB27EE4A.mvfrm
+Library\Bee\artifacts\mvdfrm\Unity.Services.Analytics.ref.dll_38684DA74D2A43D7.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.Services.Core.Analytics.ref.dll_CC4BDB495E8BC70C.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.Services.Core.Environments.ref.dll_3166FFB2F7BC4730.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.Services.Core.ref.dll_AF203140D634E744.mvfrm
@@ -33,8 +35,14 @@ Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.Shared.Editor.ref.dll_4001A5F
 Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.State.Editor.ref.dll_C201EBD4F8323092.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.State.ref.dll_BD4E09F68F0E7D0F.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.VisualStudio.Editor.ref.dll_AC85F13A47E869BA.mvfrm
+Library\Bee\artifacts\mvdfrm\UnityEditor.Purchasing.ref.dll_834CEBC123DED8A2.mvfrm
 Library\Bee\artifacts\mvdfrm\UnityEditor.TestRunner.ref.dll_1236C9FFD38EBE96.mvfrm
 Library\Bee\artifacts\mvdfrm\UnityEditor.UI.ref.dll_DB9C9DC9DBF32258.mvfrm
+Library\Bee\artifacts\mvdfrm\UnityEngine.Purchasing.Codeless.ref.dll_F7880BA97EF845BD.mvfrm
+Library\Bee\artifacts\mvdfrm\UnityEngine.Purchasing.SecurityCore.ref.dll_4E0B390ED86C0806.mvfrm
+Library\Bee\artifacts\mvdfrm\UnityEngine.Purchasing.SecurityStub.ref.dll_9931FE027BD8C345.mvfrm
+Library\Bee\artifacts\mvdfrm\UnityEngine.Purchasing.Stores.ref.dll_B08A4B606AA7A7F9.mvfrm
+Library\Bee\artifacts\mvdfrm\UnityEngine.Purchasing.ref.dll_4F6B366F4FA2368D.mvfrm
 Library\Bee\artifacts\mvdfrm\UnityEngine.TestRunner.ref.dll_DE5514ADFF521C81.mvfrm
 Library\Bee\artifacts\mvdfrm\UnityEngine.UI.ref.dll_98027424E2154AC3.mvfrm
 Library\Bee\artifacts\mvdfrm\UnityEditor.Graphs.dll_8EBAED38F14916D0.mvfrm

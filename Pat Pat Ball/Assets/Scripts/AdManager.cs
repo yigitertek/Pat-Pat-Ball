@@ -95,6 +95,13 @@ public class AdManager : MonoBehaviour
             PlayerPrefs.SetInt("moneyy", 0);
         }
     }
+    public void OnDestroy()
+    {
+        if (interstitial != null)
+        {
+            interstitial.Destroy();
+        }
+    }
 }
 
 

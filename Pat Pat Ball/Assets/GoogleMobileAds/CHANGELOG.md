@@ -1,17 +1,31 @@
 Google Mobile Ads Unity Plugin Change Log
 
 **************
+Version 7.3.0
+**************
+
+Plugin:
+- Requires using Google Mobile Ads Android SDK v21.3.0 or higher.
+- Requires using Google Mobile Ads iOS SDK v9.11.0 or higher.
+- Added response information for ad networks to the [ad response](https://developers.google.com/admob/unity/response-info).
+
+Built and tested with:
+- Google Mobile Ads Android SDK 21.3.0.
+- Google Mobile Ads iOS SDK 9.11.0
+- External Dependency Manager for Unity 1.2.171.
+
+**************
 Version 7.2.0
 **************
 
 Plugin:
-- Added support for Android initialization and ad loading optimization.
+- Added settings to optimize Android initialization and ad loading thread usage.
 - Fixed issue with AppOpenAd.GetResponseInfo() not completing on Android.
 - Fixed display issue for AdInspector on the Unity Editor platform.
 
 Built and tested with:
 - Google Mobile Ads Android SDK 21.0.0.
-- Google Mobile Ads iOS SDK 9.0.0
+- Google Mobile Ads iOS SDK 9.9.0
 - External Dependency Manager for Unity 1.2.171.
 
 **************

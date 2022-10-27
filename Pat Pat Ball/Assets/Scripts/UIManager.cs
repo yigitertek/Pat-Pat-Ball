@@ -8,6 +8,7 @@ using TMPro;
 
 public class UIManager : MonoBehaviour
 {
+    public SoundManager sounds;
     public Image whiteEffectImage;
     private int effectcontrol = 0;
     private bool radialshine = false;
@@ -115,15 +116,20 @@ public class UIManager : MonoBehaviour
         radialshine = true;
         finish_Screen.SetActive(true);
         blackBackground.SetActive(true);
+        sounds.CompleteSound();
         yield return new WaitForSecondsRealtime(1f);
         complete.SetActive(true);
+        sounds.CompleteSound();
         yield return new WaitForSecondsRealtime(0.7f);
         radial_Shine.SetActive(true);
         coin.SetActive(true);
+        sounds.CompleteSound();
         yield return new WaitForSecondsRealtime(1f);
         rewarded.SetActive(true);
+        sounds.CompleteSound();
         yield return new WaitForSecondsRealtime(3f);
         noThanks.SetActive(true);
+        sounds.CompleteSound();
     }
     public IEnumerator AfterRewardButton()
     {

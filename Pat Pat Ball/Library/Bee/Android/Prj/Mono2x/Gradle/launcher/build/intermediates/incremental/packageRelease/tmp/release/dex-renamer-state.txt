@@ -1,4 +1,4 @@
-#Fri Oct 14 15:18:00 EET 2022
+#Wed Oct 26 16:30:37 EET 2022
 base.0=C\:\\Users\\YGT\\Desktop\\Yazilim\\Unity\\Pat Pat Ball\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

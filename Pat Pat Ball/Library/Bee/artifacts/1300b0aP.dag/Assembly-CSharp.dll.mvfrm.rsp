@@ -2,6 +2,7 @@ Library\Bee\artifacts\mvdfrm\Unity.AdaptivePerformance.Samsung.Android.ref.dll_6
 Library\Bee\artifacts\mvdfrm\Unity.AdaptivePerformance.ref.dll_13C0F7724EC41497.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.Notifications.Android.ref.dll_EE5061B746FB0616.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.Profiling.Core.ref.dll_B7D44B7864BB1620.mvfrm
+Library\Bee\artifacts\mvdfrm\Unity.Services.Analytics.ref.dll_A667729B1482521F.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.Services.Core.Analytics.ref.dll_B6B3928F42109E44.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.Services.Core.Environments.ref.dll_9371070AEE137978.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.Services.Core.ref.dll_FF91F9BC6398EB7C.mvfrm
@@ -11,6 +12,11 @@ Library\Bee\artifacts\mvdfrm\Unity.Timeline.ref.dll_08E11C037DD39E3A.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.Core.ref.dll_0FD4FE2CDCC99BDF.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.Flow.ref.dll_56E5DE835ED3108E.mvfrm
 Library\Bee\artifacts\mvdfrm\Unity.VisualScripting.State.ref.dll_A70CD23EFCFC9D47.mvfrm
+Library\Bee\artifacts\mvdfrm\UnityEngine.Purchasing.Codeless.ref.dll_05F068B61D20B3F5.mvfrm
+Library\Bee\artifacts\mvdfrm\UnityEngine.Purchasing.Security.ref.dll_F930CF6FBEE74E0F.mvfrm
+Library\Bee\artifacts\mvdfrm\UnityEngine.Purchasing.SecurityCore.ref.dll_0E0C8763AFF2443E.mvfrm
+Library\Bee\artifacts\mvdfrm\UnityEngine.Purchasing.Stores.ref.dll_9AF202A64E2C7F31.mvfrm
+Library\Bee\artifacts\mvdfrm\UnityEngine.Purchasing.ref.dll_928E906C74AB4BD5.mvfrm
 Library\Bee\artifacts\mvdfrm\UnityEngine.UI.ref.dll_AFC2E85BC2EDBC0B.mvfrm
 Library\Bee\artifacts\mvdfrm\UnityEngine.AccessibilityModule.dll_050F2ABF5A00545B.mvfrm
 Library\Bee\artifacts\mvdfrm\UnityEngine.AIModule.dll_944D51AD4ABF2D2F.mvfrm

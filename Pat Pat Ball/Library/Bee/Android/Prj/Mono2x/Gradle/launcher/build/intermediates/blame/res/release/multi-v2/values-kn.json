@@ -47,15 +47,15 @@
                         "endOffsets": "151"
                     },
                     "to": {
-                        "startLines": "34",
+                        "startLines": "38",
                         "startColumns": "4",
-                        "startOffsets": "3358",
+                        "startOffsets": "3789",
                         "endColumns": "100",
-                        "endOffsets": "3454"
+                        "endOffsets": "3885"
                     }
                 },
                 {
-                    "source": "C:\\Users\\YGT\\.gradle\\caches\\transforms-2\\files-2.1\\280e98333702425c7d840580f19ed007\\com.google.android.gms.play-services-ads-21.0.0\\res\\values-kn\\values.xml",
+                    "source": "C:\\Users\\YGT\\.gradle\\caches\\transforms-2\\files-2.1\\a8c31749538c7be416ee48fd9222f656\\com.google.android.gms.play-services-ads-21.3.0\\res\\values-kn\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -64,11 +64,28 @@
                         "endOffsets": "280,389,440,562,613,735,832,871,963,999,1036,1087,1165,1209"
                     },
                     "to": {
-                        "startLines": "20,21,22,23,24,25,26,27,28,29,30,31,32,33",
+                        "startLines": "24,25,26,27,28,29,30,31,32,33,34,35,36,37",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "2291,2377,2490,2545,2671,2726,2852,2953,2996,3092,3132,3173,3228,3310",
+                        "startOffsets": "2722,2808,2921,2976,3102,3157,3283,3384,3427,3523,3563,3604,3659,3741",
                         "endColumns": "85,112,54,125,54,125,100,42,95,39,40,54,81,47",
-                        "endOffsets": "2372,2485,2540,2666,2721,2847,2948,2991,3087,3127,3168,3223,3305,3353"
+                        "endOffsets": "2803,2916,2971,3097,3152,3278,3379,3422,3518,3558,3599,3654,3736,3784"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\YGT\\.gradle\\caches\\transforms-2\\files-2.1\\0e3f4b92cdfe1f27ebe42738bdc2b14c\\androidx.browser.browser-1.4.0\\res\\values-kn\\values-kn.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,169,269,385",
+                        "endColumns": "113,99,115,100",
+                        "endOffsets": "164,264,380,481"
+                    },
+                    "to": {
+                        "startLines": "20,21,22,23",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "2291,2405,2505,2621",
+                        "endColumns": "113,99,115,100",
+                        "endOffsets": "2400,2500,2616,2717"
                     }
                 }
             ]
