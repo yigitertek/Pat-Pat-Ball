@@ -3,7 +3,7 @@
     "m_SelectedPackage": {
         "deviceId": "ce0416042528ce2705",
         "name": "com.SinekGames.PatPatBall",
-        "processId": 1206,
+        "processId": 16035,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -78,6 +78,12 @@
             "deviceId": "ce0416042528ce2705",
             "name": "com.SinekGames.PatPatBall",
             "processId": 1206,
+            "exited": false
+        },
+        {
+            "deviceId": "ce0416042528ce2705",
+            "name": "com.SinekGames.PatPatBall",
+            "processId": 16035,
             "exited": false
         }
     ],

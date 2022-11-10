@@ -874,6 +874,228 @@ ScriptsOnlyBuild:
   - assembly: Assembly-CSharp
     fullTypeName: Shop
     methodName: Item6Open
+  - assembly: Assembly-CSharp
+    fullTypeName: UIManager
+    methodName: NextScene
+  - assembly: Assembly-CSharp
+    fullTypeName: UIManager
+    methodName: RestartScene
+  - assembly: Assembly-CSharp
+    fullTypeName: UIManager
+    methodName: Sound_On
+  - assembly: Assembly-CSharp
+    fullTypeName: SoundManager
+    methodName: ButtonSound
+  - assembly: Assembly-CSharp
+    fullTypeName: UIManager
+    methodName: Sound_Off
+  - assembly: Assembly-CSharp
+    fullTypeName: SoundManager
+    methodName: ButtonSound
+  - assembly: Assembly-CSharp
+    fullTypeName: AdManager
+    methodName: ShowInterstitial
+  - assembly: Assembly-CSharp
+    fullTypeName: UIManager
+    methodName: NextScene
+  - assembly: Assembly-CSharp
+    fullTypeName: Shop
+    methodName: Lock2Open
+  - assembly: Assembly-CSharp
+    fullTypeName: SoundManager
+    methodName: ObjectHitSound
+  - assembly: Assembly-CSharp
+    fullTypeName: Shop
+    methodName: Lock3Open
+  - assembly: Assembly-CSharp
+    fullTypeName: IAPController
+    methodName: IAPButton
+  - assembly: Assembly-CSharp
+    fullTypeName: Shop
+    methodName: Lock5Open
+  - assembly: Assembly-CSharp
+    fullTypeName: Shop
+    methodName: Item1Open
+  - assembly: Assembly-CSharp
+    fullTypeName: AdManager
+    methodName: ShowRewardedAd
+  - assembly: Assembly-CSharp
+    fullTypeName: Shop
+    methodName: Item4Open
+  - assembly: Assembly-CSharp
+    fullTypeName: UIManager
+    methodName: Settings_Open
+  - assembly: Assembly-CSharp
+    fullTypeName: SoundManager
+    methodName: ButtonSound
+  - assembly: Assembly-CSharp
+    fullTypeName: UIManager
+    methodName: Vibration_On
+  - assembly: Assembly-CSharp
+    fullTypeName: SoundManager
+    methodName: ButtonSound
+  - assembly: Assembly-CSharp
+    fullTypeName: IAPController
+    methodName: IAPButton
+  - assembly: Assembly-CSharp
+    fullTypeName: IAPController
+    methodName: IAPButton
+  - assembly: Assembly-CSharp
+    fullTypeName: Shop
+    methodName: Item2Open
+  - assembly: Assembly-CSharp
+    fullTypeName: Shop
+    methodName: Lock4Open
+  - assembly: Assembly-CSharp
+    fullTypeName: Shop
+    methodName: Lock6Open
+  - assembly: Assembly-CSharp
+    fullTypeName: SoundManager
+    methodName: ObjectHitSound
+  - assembly: Assembly-CSharp
+    fullTypeName: UIManager
+    methodName: Settings_Close
+  - assembly: Assembly-CSharp
+    fullTypeName: SoundManager
+    methodName: ButtonSound
+  - assembly: UnityEngine.CoreModule
+    fullTypeName: UnityEngine.GameObject
+    methodName: SetActive
+  - assembly: Assembly-CSharp
+    fullTypeName: SoundManager
+    methodName: ButtonSound
+  - assembly: Assembly-CSharp
+    fullTypeName: Shop
+    methodName: Item5Open
+  - assembly: UnityEngine.CoreModule
+    fullTypeName: UnityEngine.GameObject
+    methodName: SetActive
+  - assembly: Assembly-CSharp
+    fullTypeName: SoundManager
+    methodName: ButtonSound
+  - assembly: Assembly-CSharp
+    fullTypeName: Shop
+    methodName: Item3Open
+  - assembly: Assembly-CSharp
+    fullTypeName: UIManager
+    methodName: Vibration_Off
+  - assembly: Assembly-CSharp
+    fullTypeName: SoundManager
+    methodName: ButtonSound
+  - assembly: Assembly-CSharp
+    fullTypeName: Shop
+    methodName: Item6Open
+  - assembly: Assembly-CSharp
+    fullTypeName: UIManager
+    methodName: NextScene
+  - assembly: Assembly-CSharp
+    fullTypeName: UIManager
+    methodName: RestartScene
+  - assembly: Assembly-CSharp
+    fullTypeName: UIManager
+    methodName: Sound_On
+  - assembly: Assembly-CSharp
+    fullTypeName: SoundManager
+    methodName: ButtonSound
+  - assembly: Assembly-CSharp
+    fullTypeName: UIManager
+    methodName: Sound_Off
+  - assembly: Assembly-CSharp
+    fullTypeName: SoundManager
+    methodName: ButtonSound
+  - assembly: Assembly-CSharp
+    fullTypeName: AdManager
+    methodName: ShowInterstitial
+  - assembly: Assembly-CSharp
+    fullTypeName: UIManager
+    methodName: NextScene
+  - assembly: Assembly-CSharp
+    fullTypeName: Shop
+    methodName: Lock2Open
+  - assembly: Assembly-CSharp
+    fullTypeName: SoundManager
+    methodName: ObjectHitSound
+  - assembly: Assembly-CSharp
+    fullTypeName: Shop
+    methodName: Lock3Open
+  - assembly: Assembly-CSharp
+    fullTypeName: IAPController
+    methodName: IAPButton
+  - assembly: Assembly-CSharp
+    fullTypeName: Shop
+    methodName: Lock5Open
+  - assembly: Assembly-CSharp
+    fullTypeName: Shop
+    methodName: Item1Open
+  - assembly: Assembly-CSharp
+    fullTypeName: AdManager
+    methodName: ShowRewardedAd
+  - assembly: Assembly-CSharp
+    fullTypeName: Shop
+    methodName: Item4Open
+  - assembly: Assembly-CSharp
+    fullTypeName: UIManager
+    methodName: Settings_Open
+  - assembly: Assembly-CSharp
+    fullTypeName: SoundManager
+    methodName: ButtonSound
+  - assembly: Assembly-CSharp
+    fullTypeName: UIManager
+    methodName: Vibration_On
+  - assembly: Assembly-CSharp
+    fullTypeName: SoundManager
+    methodName: ButtonSound
+  - assembly: Assembly-CSharp
+    fullTypeName: IAPController
+    methodName: IAPButton
+  - assembly: Assembly-CSharp
+    fullTypeName: IAPController
+    methodName: IAPButton
+  - assembly: Assembly-CSharp
+    fullTypeName: Shop
+    methodName: Item2Open
+  - assembly: Assembly-CSharp
+    fullTypeName: Shop
+    methodName: Lock4Open
+  - assembly: Assembly-CSharp
+    fullTypeName: Shop
+    methodName: Lock6Open
+  - assembly: Assembly-CSharp
+    fullTypeName: SoundManager
+    methodName: ObjectHitSound
+  - assembly: Assembly-CSharp
+    fullTypeName: UIManager
+    methodName: Settings_Close
+  - assembly: Assembly-CSharp
+    fullTypeName: SoundManager
+    methodName: ButtonSound
+  - assembly: UnityEngine.CoreModule
+    fullTypeName: UnityEngine.GameObject
+    methodName: SetActive
+  - assembly: Assembly-CSharp
+    fullTypeName: SoundManager
+    methodName: ButtonSound
+  - assembly: Assembly-CSharp
+    fullTypeName: Shop
+    methodName: Item5Open
+  - assembly: UnityEngine.CoreModule
+    fullTypeName: UnityEngine.GameObject
+    methodName: SetActive
+  - assembly: Assembly-CSharp
+    fullTypeName: SoundManager
+    methodName: ButtonSound
+  - assembly: Assembly-CSharp
+    fullTypeName: Shop
+    methodName: Item3Open
+  - assembly: Assembly-CSharp
+    fullTypeName: UIManager
+    methodName: Vibration_Off
+  - assembly: Assembly-CSharp
+    fullTypeName: SoundManager
+    methodName: ButtonSound
+  - assembly: Assembly-CSharp
+    fullTypeName: Shop
+    methodName: Item6Open
   sceneClasses:
     Assets/Scenes/Level_1.unity:
     - Class: 1
@@ -1362,8 +1584,6 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 54
       Script: {instanceID: 0}
-    - Class: 64
-      Script: {instanceID: 0}
     - Class: 65
       Script: {instanceID: 0}
     - Class: 74
@@ -1476,8 +1696,6 @@ ScriptsOnlyBuild:
     - Class: 48
       Script: {instanceID: 0}
     - Class: 54
-      Script: {instanceID: 0}
-    - Class: 64
       Script: {instanceID: 0}
     - Class: 65
       Script: {instanceID: 0}
@@ -1594,7 +1812,231 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 54
       Script: {instanceID: 0}
-    - Class: 64
+    - Class: 65
+      Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
+    - Class: 91
+      Script: {instanceID: 0}
+    - Class: 95
+      Script: {instanceID: 0}
+    - Class: 96
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 1738}
+    - Class: 114
+      Script: {instanceID: 1950}
+    - Class: 114
+      Script: {instanceID: 2194}
+    - Class: 114
+      Script: {instanceID: 2678}
+    - Class: 114
+      Script: {instanceID: 3068}
+    - Class: 114
+      Script: {instanceID: 3326}
+    - Class: 114
+      Script: {instanceID: 3712}
+    - Class: 114
+      Script: {instanceID: 3732}
+    - Class: 114
+      Script: {instanceID: 4276}
+    - Class: 114
+      Script: {instanceID: 4388}
+    - Class: 114
+      Script: {instanceID: 4696}
+    - Class: 114
+      Script: {instanceID: 5302}
+    - Class: 114
+      Script: {instanceID: 6106}
+    - Class: 114
+      Script: {instanceID: 6252}
+    - Class: 114
+      Script: {instanceID: 6482}
+    - Class: 114
+      Script: {instanceID: 6796}
+    - Class: 114
+      Script: {instanceID: 7012}
+    - Class: 114
+      Script: {instanceID: 7096}
+    - Class: 114
+      Script: {instanceID: 7206}
+    - Class: 114
+      Script: {instanceID: 7654}
+    - Class: 114
+      Script: {instanceID: 7942}
+    - Class: 114
+      Script: {instanceID: 8182}
+    - Class: 114
+      Script: {instanceID: 8478}
+    - Class: 114
+      Script: {instanceID: 9924}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 135
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 198
+      Script: {instanceID: 0}
+    - Class: 199
+      Script: {instanceID: 0}
+    - Class: 212
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    Assets/Scenes/Level_8.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 33
+      Script: {instanceID: 0}
+    - Class: 43
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 54
+      Script: {instanceID: 0}
+    - Class: 65
+      Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
+    - Class: 91
+      Script: {instanceID: 0}
+    - Class: 95
+      Script: {instanceID: 0}
+    - Class: 96
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 1738}
+    - Class: 114
+      Script: {instanceID: 1950}
+    - Class: 114
+      Script: {instanceID: 2194}
+    - Class: 114
+      Script: {instanceID: 2678}
+    - Class: 114
+      Script: {instanceID: 3068}
+    - Class: 114
+      Script: {instanceID: 3326}
+    - Class: 114
+      Script: {instanceID: 3712}
+    - Class: 114
+      Script: {instanceID: 3732}
+    - Class: 114
+      Script: {instanceID: 4276}
+    - Class: 114
+      Script: {instanceID: 4388}
+    - Class: 114
+      Script: {instanceID: 4696}
+    - Class: 114
+      Script: {instanceID: 5302}
+    - Class: 114
+      Script: {instanceID: 6106}
+    - Class: 114
+      Script: {instanceID: 6252}
+    - Class: 114
+      Script: {instanceID: 6482}
+    - Class: 114
+      Script: {instanceID: 6796}
+    - Class: 114
+      Script: {instanceID: 7012}
+    - Class: 114
+      Script: {instanceID: 7096}
+    - Class: 114
+      Script: {instanceID: 7206}
+    - Class: 114
+      Script: {instanceID: 7654}
+    - Class: 114
+      Script: {instanceID: 7942}
+    - Class: 114
+      Script: {instanceID: 8182}
+    - Class: 114
+      Script: {instanceID: 8478}
+    - Class: 114
+      Script: {instanceID: 9924}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 135
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 198
+      Script: {instanceID: 0}
+    - Class: 199
+      Script: {instanceID: 0}
+    - Class: 212
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    Assets/Scenes/Level_9.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 33
+      Script: {instanceID: 0}
+    - Class: 43
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 54
       Script: {instanceID: 0}
     - Class: 65
       Script: {instanceID: 0}
@@ -3038,5 +3480,7 @@ ScriptsOnlyBuild:
   - Assets/Scenes/Level_5.unity
   - Assets/Scenes/Level_6.unity
   - Assets/Scenes/Level_7.unity
+  - Assets/Scenes/Level_8.unity
+  - Assets/Scenes/Level_9.unity
   playerPath: C:/Users/YGT/AppData/Roaming/Microsoft/Windows/Network Shortcuts/Pat
     Pat Ball.apk
